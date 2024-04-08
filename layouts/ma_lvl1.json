@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2817259932079564,
+    "zoomFactor": 0.4481978045410386,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -49,8 +49,8 @@
       "name": "MA_flying_eye",
       "persistentUuid": "976a303d-88ff-4ed3-a4ed-dc9d9722abba",
       "width": 378,
-      "x": 301,
-      "y": 434,
+      "x": 297,
+      "y": 425,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -76,13 +76,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 793,
+      "height": 754,
       "layer": "Background Layer",
       "name": "background",
       "persistentUuid": "a2a4d491-985e-43fd-b6bd-a7f1a82ee23e",
-      "width": 1296,
-      "x": 3,
-      "y": -72,
+      "width": 1302,
+      "x": 2,
+      "y": 4,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -129,8 +129,8 @@
       "name": "boundary",
       "persistentUuid": "eba16b74-d7b8-4a2d-9b89-5f76639d7dae",
       "width": 2759,
-      "x": 5,
-      "y": 645,
+      "x": -1,
+      "y": 684,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -161,8 +161,8 @@
       "name": "MA_Goblin",
       "persistentUuid": "2227f12f-10b0-406c-91a1-0c90efecd379",
       "width": 378,
-      "x": 675,
-      "y": 426,
+      "x": 685,
+      "y": 417,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -176,8 +176,8 @@
       "name": "Door",
       "persistentUuid": "a1651052-7aef-48de-9dbe-82ce6404e0a3",
       "width": 0,
-      "x": 2488,
-      "y": 325,
+      "x": 2480,
+      "y": 367,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -195,6 +195,21 @@
       "x": 2026,
       "y": 404,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "RedFlatBar",
+      "persistentUuid": "8011a206-6ca1-418d-bec1-54f6c0869b01",
+      "width": 0,
+      "x": 8,
+      "y": 443,
+      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -855,8 +870,8 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
+              "looping": true,
+              "timeBetweenFrames": 0.25,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -1563,6 +1578,281 @@
           },
           "parameters": [
             "boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Enemy Collisions",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MA_Adventurer",
+                    "MA_Goblin",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MA_Adventurer",
+                    "MA_flying_eye",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Animation",
+                "=",
+                "\"attack1\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Animation",
+                "=",
+                "\"attack2\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Animation",
+                "=",
+                "\"hurt\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Health",
+                "20",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "RedFlatBar",
+                "=",
+                "MA_Adventurer.Health::Health()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Death"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Animation",
+                "=",
+                "\"die\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "PlatformerObject",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Animation",
+                "=",
+                "\"Death\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "MA_Adventurer",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"MA_LVL1\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "MA_Adventurer",
+            "Door",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Brian Level\"",
+            "yes"
           ]
         }
       ]
