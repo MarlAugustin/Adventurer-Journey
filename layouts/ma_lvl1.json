@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4057518905943881,
+    "zoomFactor": 0.3216911764705931,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1846,16 +1846,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Background6",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": true,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Background6.png",
+                  "image": "Background6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",

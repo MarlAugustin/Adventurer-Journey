@@ -711,15 +711,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Background2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Background2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -780,42 +771,6 @@
         "name": "adventurer-attack2-05.png",
         "smoothed": true,
         "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/idle.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "idle",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/idle2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "idle2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/idle3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "idle3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/idle4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "idle4",
-        "smoothed": true,
-        "userAdded": true
       },
       {
         "alwaysLoaded": false,
@@ -904,45 +859,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Metal Bar Border.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Metal Bar Border.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Metal Bar Border.png",
-          "name": "Metal Bar Border.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Pixel Red Fill Bar.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixel Red Fill Bar.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/3eee053defc4f2944d72ef78b5aebbac31634202712157a3630b84fe08d79cbb_Pixel Red Fill Bar.png",
-          "name": "Pixel Red Fill Bar.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Pixel Yellow Fill Bar.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixel Yellow Fill Bar.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/62f87cd20640fba9413cea576a648c6995a6d0e0026ba0adadb937ab3adec1b1_Pixel Yellow Fill Bar.png",
-          "name": "Pixel Yellow Fill Bar.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar Red Fill Bar.png",
         "kind": "image",
         "metadata": "",
@@ -996,48 +912,12 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite18.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite18",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite19.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite19",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite20.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite20",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite21",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Run.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Run.png",
-        "smoothed": true,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -1163,46 +1043,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite22.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite22",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Mountain 7.png",
         "kind": "image",
         "metadata": "",
         "name": "Mountain 7.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Background3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Background3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Background4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Background4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Background5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Background5.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -1217,16 +1061,12 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Merged Full Background.png",
+        "file": "assets/Background6.png",
         "kind": "image",
-        "metadata": "",
-        "name": "Merged Full Background.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Backgrounds/34a4293e3c14f3b014e5d97a5faee8d20ad65701e29c0d651fba8e300188c595_Merged Full Background.png",
-          "name": "Merged Full Background.png"
-        }
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Background6",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
