@@ -1105,7 +1105,7 @@
             "instructions",
             "Text",
             "=",
-            "\"Jump to bo untop of the well. Press the space bar twice to do a double jump\""
+            "\"Jump to be on the top of the well. Press the space bar twice to do a double jump\""
           ]
         },
         {
@@ -1331,7 +1331,7 @@
           "parameters": [
             "",
             "\"MA_LVL1\"",
-            ""
+            "yes"
           ]
         }
       ]

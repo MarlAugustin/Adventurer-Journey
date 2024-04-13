@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2912258866911146,
+    "zoomFactor": 0.4057518905943881,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -33,10 +33,15 @@
       "name": "MA_Adventurer",
       "persistentUuid": "8d314753-4b89-4c93-8d79-a3bae4573fd4",
       "width": 204,
-      "x": 14,
-      "y": 545,
+      "x": -15,
+      "y": 577,
       "zOrder": 2,
-      "numberProperties": [],
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
       "stringProperties": [],
       "initialVariables": []
     },
@@ -49,8 +54,8 @@
       "name": "MA_flying_eye",
       "persistentUuid": "976a303d-88ff-4ed3-a4ed-dc9d9722abba",
       "width": 378,
-      "x": 313,
-      "y": 486,
+      "x": 316,
+      "y": 515,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -65,8 +70,8 @@
       "name": "MA_flying_eye",
       "persistentUuid": "8c1517fa-beec-45ca-bcd2-ff25251f6a68",
       "width": 378,
-      "x": 1975,
-      "y": 485,
+      "x": 1977,
+      "y": 515,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -92,13 +97,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 716,
+      "height": 734,
       "layer": "",
       "name": "boundary",
       "persistentUuid": "05e3ddfc-2f1f-46eb-a1f6-b4d252162da4",
       "width": 43,
       "x": -42,
-      "y": 4,
+      "y": -14,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -113,8 +118,8 @@
       "name": "boundary",
       "persistentUuid": "eba16b74-d7b8-4a2d-9b89-5f76639d7dae",
       "width": 3009,
-      "x": 1,
-      "y": 732,
+      "x": -6,
+      "y": 705,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -130,7 +135,7 @@
       "persistentUuid": "36ea445c-f861-4402-a662-ff4fb2724408",
       "width": 378,
       "x": 1228,
-      "y": 481,
+      "y": 513,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -145,8 +150,8 @@
       "name": "MA_Goblin",
       "persistentUuid": "2227f12f-10b0-406c-91a1-0c90efecd379",
       "width": 378,
-      "x": 714,
-      "y": 481,
+      "x": 716,
+      "y": 513,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -161,7 +166,7 @@
       "persistentUuid": "a1651052-7aef-48de-9dbe-82ce6404e0a3",
       "width": 0,
       "x": 2725,
-      "y": 374,
+      "y": 390,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -176,8 +181,8 @@
       "name": "MA_flying_eye",
       "persistentUuid": "5e1c3ad9-feeb-4395-8555-dbdb2704376b",
       "width": 378,
-      "x": 2352,
-      "y": 479,
+      "x": 2354,
+      "y": 515,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -208,7 +213,7 @@
       "persistentUuid": "681a21d3-2395-4227-abc6-2fac6f9fe032",
       "width": 122,
       "x": 1698,
-      "y": 585,
+      "y": 610,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -218,14 +223,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 792,
+      "height": 793,
       "layer": "Background Layer",
-      "name": "background",
-      "persistentUuid": "12952837-7dd4-4ca8-89ca-3648babeeaaf",
-      "width": 1335,
-      "x": 2,
-      "y": -49,
-      "zOrder": 0,
+      "name": "NewSprite",
+      "persistentUuid": "020d3b50-9044-4758-8cc8-afb6062ffa4e",
+      "width": 1400,
+      "x": 0,
+      "y": -19,
+      "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1831,15 +1836,64 @@
       ]
     },
     {
+      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "height": 1200,
-      "name": "background",
-      "texture": "Background3.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 1200,
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Background6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 928,
+                        "y": 0
+                      },
+                      {
+                        "x": 928,
+                        "y": 793
+                      },
+                      {
+                        "x": 0,
+                        "y": 793
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -1864,7 +1918,7 @@
         "objectName": "attack_collision"
       },
       {
-        "objectName": "background"
+        "objectName": "NewSprite"
       }
     ]
   },
@@ -1875,6 +1929,44 @@
         "includeConfig": 0
       },
       "target": "Tutorial"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ZoomCamera"
+          },
+          "parameters": [
+            "",
+            "1",
+            "\"Background Layer\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CentreCamera"
+          },
+          "parameters": [
+            "",
+            "NewSprite",
+            "",
+            "\"Background Layer\"",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -1890,14 +1982,79 @@
         },
         {
           "type": {
-            "value": "CentreCamera"
+            "value": "SetCameraCenterX"
           },
           "parameters": [
             "",
+            "=",
+            "lerp(CameraCenterX(),MA_Adventurer.X(),0.05)",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Out of bounds\n"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosY"
+          },
+          "parameters": [
             "MA_Adventurer",
+            ">",
+            "SceneWindowHeight()"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "MA_Adventurer",
+            "Health",
+            "25",
             "",
             "",
-            "1"
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "MA_Adventurer",
+            "=",
+            "HealthKit.X()",
+            "=",
+            "100"
+          ]
+        },
+        {
+          "type": {
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+          },
+          "parameters": [
+            "RedFlatBar",
+            "=",
+            "MA_Adventurer.Health::Health()",
+            ""
           ]
         }
       ]
@@ -1912,7 +2069,6 @@
       "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -2029,7 +2185,6 @@
           ],
           "events": [
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -2351,6 +2506,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Item collision",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -2790,7 +2946,7 @@
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 3,
-      "cameraType": "",
+      "cameraType": "perspective",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
@@ -2798,23 +2954,7 @@
       "renderingType": "",
       "visibility": true,
       "cameras": [],
-      "effects": [
-        {
-          "effectType": "Scene3D::HemisphereLight",
-          "name": "3D Light",
-          "doubleParameters": {
-            "elevation": 45,
-            "intensity": 1,
-            "rotation": 0
-          },
-          "stringParameters": {
-            "groundColor": "64;64;64",
-            "skyColor": "255;255;255",
-            "top": "Y-"
-          },
-          "booleanParameters": {}
-        }
-      ]
+      "effects": []
     },
     {
       "ambientLightColorB": 200,
@@ -2822,8 +2962,8 @@
       "ambientLightColorR": 200,
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 3,
-      "cameraType": "",
+      "camera3DNearPlaneDistance": 0.1,
+      "cameraType": "perspective",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
