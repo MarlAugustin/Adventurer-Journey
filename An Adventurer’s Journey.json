@@ -1135,6 +1135,1469 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Sound/95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
           "name": "gdevelop-asset-store"
         }
+      },  
+       
+         
+      
+         
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Small Castle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Small Castle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Forest Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\tiled_Forest Background.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green small tree 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Green small tree 6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pine tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Pine tree.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bush 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bush 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Fly_10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Idle_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Idle_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Monster_Fire_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Monster_Fire_10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gold Coin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gold Coin.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Squid Space Enemy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Squid Space Enemy.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Green Platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\tiled_Green Platform.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/235623c829963f58ef6a5daef4b228a1b3fa47c90fa84a6e1e3eb773c2bc7622_Percy_AerialShootingFireball_1.png",
+          "name": "Percy_AerialShootingFireball_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/43f15cc0e06fe9068e225ddfbec81add7af343d33811fda5cec37d91660e33de_Percy_AerialShootingFireball_2.png",
+          "name": "Percy_AerialShootingFireball_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bad8875383165bdce4c1b260852a25bd96c3f90fa50b58615381c92712458f40_Percy_AerialShootingFireball_3.png",
+          "name": "Percy_AerialShootingFireball_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dae66ce4f68144c06abcffa8c801586510c9e6de1c4c8845be859d1f1f5c54cb_Percy_AerialShootingFireball_4.png",
+          "name": "Percy_AerialShootingFireball_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/56596f8deb5f97e5e16d5f485a0f6dc7c60a145b1b0fe4abea8df6fd9cf173a0_Percy_AerialShootingFireball_5.png",
+          "name": "Percy_AerialShootingFireball_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Falling2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5a7dbd0fe8570b84b83a2474bd558e3046fbca9049a4bf7c6cd002cd098ad879_Percy_Falling.png",
+          "name": "Percy_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Hurt2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dcb7091bde17b2026c2282c051d8a088b1f55388a2bd52987e04f7bfa440ef3b_Percy_Hurt.png",
+          "name": "Percy_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90d055aeeee72e765c057144e37d434434cd7e42756de6e8a93239a094ec712a_Percy_Idle_1.png",
+          "name": "Percy_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aa38a4a49fa8b9289b937cf2616a665fd04fcfd3d4e1c696f8a62c63195bea51_Percy_Idle_2.png",
+          "name": "Percy_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2d9460b504bfd1773fbaa5f6ade33bdb356f859fdf9df69ffedddf88b85b5267_Percy_Idle_3.png",
+          "name": "Percy_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a24b950d25aca21a87012b959ad294bfd43d048a95a00bf284ebae87d7840a9e_Percy_Idle_4.png",
+          "name": "Percy_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/161e067e0c5a6c531616411f17a2b508e5148e43880e0d7eba548057d0412a01_Percy_Idle_5.png",
+          "name": "Percy_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/184bac6ce669ba92a5f6f7c8c799efe716ccf8636652c4f443cf4c6eb021caf0_Percy_Idle_6.png",
+          "name": "Percy_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ed98462100522856d63afe22363e3109eead33f0a76f2fc093979fe126fa7f25_Percy_Idle_7.png",
+          "name": "Percy_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4b620a7244583f45dbf98b9dcd3b73a39bf1dbc5cdb5abb6f602d3cd21b8a6c6_Percy_Idle_8.png",
+          "name": "Percy_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90f37e791851aa5bdad7999c4923e0f639ecb412d3b51c911f610d1b8e60ca89_Percy_Idle_9.png",
+          "name": "Percy_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Jump2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0f8a3d548656d64f7ff90d29f32d3da4467d362073725f0a4c052ca5fa27def9_Percy_Jump.png",
+          "name": "Percy_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Landing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Landing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/21e75357a3c1f3b53626a8149ecdb3291b9999c1c1087e4166cde452f48ad2f3_Percy_Landing_1.png",
+          "name": "Percy_Landing_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Landing_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Landing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aa27ac515e6fbecdb8367c143cccfc17dc77fd8bb575b4d4dcc7271c27d287ab_Percy_Landing_2.png",
+          "name": "Percy_Landing_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/7269cad8a305abdfa2dfd317d0565f71dbb239eee01f588724ea3e605d682e74_Percy_Running_1.png",
+          "name": "Percy_Running_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2c536734dc084e501e25ef060f0024ff5669a7ce86fb638af11bfab4bc7950d6_Percy_Running_2.png",
+          "name": "Percy_Running_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2394df8016e28f5dea6c1156b12d75bbbfdb17d22b270f8776516e91eeb124d0_Percy_Running_3.png",
+          "name": "Percy_Running_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6f57a45a5502fbd12605ce7db2113169ca62f815990d2301d6bfec6e66b23596_Percy_Running_4.png",
+          "name": "Percy_Running_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/326a451b0b3cce07d47a5727e152f7f0ce15bac06a8f887583d35f3bc25be643_Percy_Running_5.png",
+          "name": "Percy_Running_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a779f9d3d570e2d452e2c0dd909bd50e6cefc328771636ac16f37fcdb4955908_Percy_Running_6.png",
+          "name": "Percy_Running_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90d055aeeee72e765c057144e37d434434cd7e42756de6e8a93239a094ec712a_Percy_ShootingFireball_1.png",
+          "name": "Percy_ShootingFireball_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/625fa8d5bb07bb4fdca2869563786428b7a6ef532bf46ff75b26d6bb35a6d0e8_Percy_ShootingFireball_2.png",
+          "name": "Percy_ShootingFireball_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e20886b24130ebdab97fa1985cda643ec9ad627a6242b86a9b630132100ec062_Percy_ShootingFireball_3.png",
+          "name": "Percy_ShootingFireball_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b2c9de5fa51606a71a098c44288015f7339060bef13ad10b98adb7c4a9afcee8_Percy_ShootingFireball_4.png",
+          "name": "Percy_ShootingFireball_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6388ad0a110601fa6b80dd15ee45b54d5d88c453b6c8f96b2a066a8819dbf350_Percy_ShootingFireball_5.png",
+          "name": "Percy_ShootingFireball_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aee5c297e116951bd1184f836d531e86310290517c055b9bf4428d7eeabdb061_Percy_ShootingFireball_6.png",
+          "name": "Percy_ShootingFireball_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a923e7ac90cd5666f5d3590707727f8ef495b27edbe2259a2b4b45aa657c61f5_Percy_ShootingFireball_7.png",
+          "name": "Percy_ShootingFireball_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/66b1ee8f27792fba727efbb5024e919f5fcb4954e5c1cdcb69577b33118187eb_Percy_ShootingFireball_8.png",
+          "name": "Percy_ShootingFireball_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90d055aeeee72e765c057144e37d434434cd7e42756de6e8a93239a094ec712a_Percy_TailWhip_1.png",
+          "name": "Percy_TailWhip_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c7556638d699b25046d86047a1eec3f4c6e61aa39f3df959e84773af848c216f_Percy_TailWhip_2.png",
+          "name": "Percy_TailWhip_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a39f3b78821a603ccc4322c2ddb7c2389cd887c5a4264159716e3c2e7643cd2e_Percy_TailWhip_3.png",
+          "name": "Percy_TailWhip_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d26c42d79b42f0ecf31a241f248a23d879c52e7496b499a4d1bf7209975f63f2_Percy_TailWhip_4.png",
+          "name": "Percy_TailWhip_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dec5596cc852daec3c97b5b3c7514147c72497d0d57cf25a03acc1d739b9bbf7_Percy_TailWhip_5.png",
+          "name": "Percy_TailWhip_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9e627828c03427caadae0f81d0497cd8a423aac0299f5096085b98556a32733f_Percy_TailWhip_6.png",
+          "name": "Percy_TailWhip_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/18a35cf9fd832de2a4297fac29733e0786448ebe248c6b3392f494e6ab4dd705_Percy_TailWhip_7.png",
+          "name": "Percy_TailWhip_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6a9153dd4c92073f47296eff0b2af78529f0f92f6f562619af42c3068ef6e67d_Percy_TailWhip_8.png",
+          "name": "Percy_TailWhip_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/56fc561da3da9ce492064947eda8092f77c3f7254f8065a790c44480b73a3353_Percy_TailWhip_9.png",
+          "name": "Percy_TailWhip_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dead tree2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dead tree.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/846b59822ab0404e7eab27f180ba98c77b7fd1125eafb1062dd329406b76d111_Dead tree.png",
+          "name": "Dead tree.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Coins3.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "b9ab279dc8ac9ec62164444742695824b9806e01cb49f710937ebdce919e72ee_Coins 2.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Coins/b9ab279dc8ac9ec62164444742695824b9806e01cb49f710937ebdce919e72ee_Coins 2.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Red Platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Red Platform.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Tiles/c93203008bb2eff5bb640240e13cf5056e0ec338d448fc6a067948add3284feb_tiled_Red Platform.png",
+          "name": "tiled_Red Platform.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite20.png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Falling2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0e1e154845209d1c3c385d0bad19b7476465b4ae00ec4e44e0b003c1d7c6cd46_Angie_Falling.png",
+          "name": "Angie_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_FlowerWhipAttack_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_FlowerWhipAttack_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6a3e06e2d5d3683ee39a3c258e71f6e50395cdc8cbf02a36d1b1d7d2dc414336_Angie_FlowerWhipAttack_1.png",
+          "name": "Angie_FlowerWhipAttack_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_FlowerWhipAttack_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_FlowerWhipAttack_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ce57e458d3c484abc235b677eff282bcc2fa1c441502fac837587f4730d821a6_Angie_FlowerWhipAttack_2.png",
+          "name": "Angie_FlowerWhipAttack_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_FlowerWhipAttack_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_FlowerWhipAttack_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9c171cb2ae81f4265dfec7ddb9e370e00599b875fb322882d2935424c0376339_Angie_FlowerWhipAttack_3.png",
+          "name": "Angie_FlowerWhipAttack_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_FlowerWhipAttack_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_FlowerWhipAttack_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/67ec76de1ab9f7442763c36118fff99255c8a805f7246def9e54fe7f66b94f03_Angie_FlowerWhipAttack_4.png",
+          "name": "Angie_FlowerWhipAttack_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_FlowerWhipAttack_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_FlowerWhipAttack_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4407d5e69b033985b0d87804688f7397b12b42e8b25f32ef35fe45f32f74ea66_Angie_FlowerWhipAttack_5.png",
+          "name": "Angie_FlowerWhipAttack_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Flying_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Flying_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4cd3e709c1cb99040ce304d3f275514cc635b351ddaa5dac16dae646ccfef55b_Angie_Flying_1.png",
+          "name": "Angie_Flying_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Flying_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Flying_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/772da4aa9f6ff4754322ff2081d28631f18702a8e9b477d98ffc8affe4691327_Angie_Flying_2.png",
+          "name": "Angie_Flying_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Flying_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Flying_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5bc0a69bdf0bfa9f3a425ad696d1b6696ebf2ed7918a03c25240f0a73c966f9c_Angie_Flying_3.png",
+          "name": "Angie_Flying_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Hurt2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/3f70d176c80e60f9e574ff600ca29390c8c59d839104472484dd601d6569d1ed_Angie_Hurt.png",
+          "name": "Angie_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle1_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0c1293462b96f60ec8012f493a7d2baaeb24f0ba8127377af8df909ffa629f4a_Angie_Idle1_1.png",
+          "name": "Angie_Idle1_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle1_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/172d6d010f957abbabc589677b44d59dc167cd0be04075353e434c625ad1f77b_Angie_Idle1_2.png",
+          "name": "Angie_Idle1_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle1_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/22b703c9f3e7539b39c449fac5f18bac4249c2ffa8dea175f1568ad9e3baad1c_Angie_Idle1_3.png",
+          "name": "Angie_Idle1_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle1_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/f857c7dd79735b2d5cc6230dc9b9dc688f6c2cff3055f77edc81ca74bd0d227b_Angie_Idle1_4.png",
+          "name": "Angie_Idle1_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle1_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle1_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/601a226b5c0709576b3d4c869220a1d53815df520930304d4564145220b2b250_Angie_Idle1_5.png",
+          "name": "Angie_Idle1_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle1_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle1_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0c1293462b96f60ec8012f493a7d2baaeb24f0ba8127377af8df909ffa629f4a_Angie_Idle1_6.png",
+          "name": "Angie_Idle1_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1d6c67ea710759c6baa98e854641bfeddd4a21829a7d40c691efface66e9840f_Angie_Idle2_1.png",
+          "name": "Angie_Idle2_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/8f25b50407730a69d14cfe31415f2179c1f78294ae06400ae6ed3febd5f7bf0c_Angie_Idle2_10.png",
+          "name": "Angie_Idle2_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/14e6d663d31b8cbc197b8ea6426c149566cc7a0001396236e641f470f73e0312_Angie_Idle2_11.png",
+          "name": "Angie_Idle2_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1d6c67ea710759c6baa98e854641bfeddd4a21829a7d40c691efface66e9840f_Angie_Idle2_12.png",
+          "name": "Angie_Idle2_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dfca2fde637bce1466612037616b6262b57eb18e9699595b63e04898e939b903_Angie_Idle2_2.png",
+          "name": "Angie_Idle2_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/89f39f75a8c4dcc019f141cfd21c0d3de3f92d851134d9555d125e5b776d146a_Angie_Idle2_3.png",
+          "name": "Angie_Idle2_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dfca2fde637bce1466612037616b6262b57eb18e9699595b63e04898e939b903_Angie_Idle2_4.png",
+          "name": "Angie_Idle2_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/8f25b50407730a69d14cfe31415f2179c1f78294ae06400ae6ed3febd5f7bf0c_Angie_Idle2_5.png",
+          "name": "Angie_Idle2_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/14e6d663d31b8cbc197b8ea6426c149566cc7a0001396236e641f470f73e0312_Angie_Idle2_6.png",
+          "name": "Angie_Idle2_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dfca2fde637bce1466612037616b6262b57eb18e9699595b63e04898e939b903_Angie_Idle2_7.png",
+          "name": "Angie_Idle2_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/89f39f75a8c4dcc019f141cfd21c0d3de3f92d851134d9555d125e5b776d146a_Angie_Idle2_8.png",
+          "name": "Angie_Idle2_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Idle2_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Idle2_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dfca2fde637bce1466612037616b6262b57eb18e9699595b63e04898e939b903_Angie_Idle2_9.png",
+          "name": "Angie_Idle2_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Jump2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/85eee4aa950e9c687ed465b1b0832c398fedcae9cb161899689160daa2c2c232_Angie_Jump.png",
+          "name": "Angie_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Landed_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Landed_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0087e077d5429d7a0cbd8c148d77b66bb804c3c4bd49e294028e7a87ee0f1ad1_Angie_Landed_1.png",
+          "name": "Angie_Landed_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Landed_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Landed_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2ef5a9df126fd15fcab3c555c0168aa3a8c6d6a6d18daaac5b6eae05c018e591_Angie_Landed_2.png",
+          "name": "Angie_Landed_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Running_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Running_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a787808c04f24ec2e535f88f8498091620ef42ecbdd6c2e4d960e1df10c9ba15_Angie_Running_1.png",
+          "name": "Angie_Running_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Running_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Running_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/fc0efc3f155a549182f7f7c67527edd109aa4f0a2fbabaadcf4524046f0337e7_Angie_Running_2.png",
+          "name": "Angie_Running_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Running_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Running_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/73d935d4e4326870d9f24269f704202dd657b8f56c889807a8d709c3dfcfc329_Angie_Running_3.png",
+          "name": "Angie_Running_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Running_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Running_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a787808c04f24ec2e535f88f8498091620ef42ecbdd6c2e4d960e1df10c9ba15_Angie_Running_4.png",
+          "name": "Angie_Running_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Running_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Running_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/20cfcb514ff8a6e22c53863983e4b4702919812e5b38d937e49c3d67b7305cf7_Angie_Running_5.png",
+          "name": "Angie_Running_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_Running_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_Running_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0896a85657ea90334103278f3c99180683b70a9dc9c6fff842487ae5adbb7a5a_Angie_Running_6.png",
+          "name": "Angie_Running_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_SeedClusterBombAttack_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_SeedClusterBombAttack_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e3abdf7ec707d7ac25f164c3df7d8f419e425cd9d7140a53bd4316be393f0801_Angie_SeedClusterBombAttack_1.png",
+          "name": "Angie_SeedClusterBombAttack_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_SeedClusterBombAttack_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_SeedClusterBombAttack_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/584461927b20f42978d6bfaef37a67e3fbc4ad97720dfd1313bbc1210110c0e1_Angie_SeedClusterBombAttack_2.png",
+          "name": "Angie_SeedClusterBombAttack_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_SeedClusterBombAttack_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_SeedClusterBombAttack_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/936f426205f5a692aa2c1047910f36eab0447e1518e91eafb845af78d1977817_Angie_SeedClusterBombAttack_3.png",
+          "name": "Angie_SeedClusterBombAttack_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_SeedClusterBombAttack_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_SeedClusterBombAttack_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1aa8302c421688e597e2ede7525482fc1df65787c9e7a8dd985d86a81f266170_Angie_SeedClusterBombAttack_4.png",
+          "name": "Angie_SeedClusterBombAttack_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_SeedClusterBombAttack_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_SeedClusterBombAttack_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5d7890bb724dc81a279e3712b96922de95d968e56882eae2a3b9401f452f1034_Angie_SeedClusterBombAttack_5.png",
+          "name": "Angie_SeedClusterBombAttack_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Angie_SeedClusterBombAttack_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angie_SeedClusterBombAttack_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2ef5a9df126fd15fcab3c555c0168aa3a8c6d6a6d18daaac5b6eae05c018e591_Angie_SeedClusterBombAttack_6.png",
+          "name": "Angie_SeedClusterBombAttack_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock with grass 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock with grass 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/6e343a5721109a7667d3ec0a01c07264628b32321770c07c95b0ab418802ad0a_Rock with grass 2.png",
+          "name": "Rock with grass 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock with grass 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock with grass 3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/df6ac48df453390312580b655c1ed70c5f331ebc7dfb5b29e41f33f3eb92f0f0_Rock with grass 3.png",
+          "name": "Rock with grass 3.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1223,13 +2686,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1265,13 +2722,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1307,13 +2758,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1349,13 +2794,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1404,13 +2843,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1446,13 +2879,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1488,13 +2915,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1530,13 +2951,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-04.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1572,13 +2987,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-05.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1627,13 +3036,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1669,13 +3072,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1711,13 +3108,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1753,13 +3144,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1808,13 +3193,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-hurt-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1850,13 +3229,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-hurt-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1892,13 +3265,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-hurt-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1947,13 +3314,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1989,13 +3350,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2031,13 +3386,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2073,13 +3422,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2115,13 +3458,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-04.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2157,13 +3494,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-05.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2199,13 +3530,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-06.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2254,13 +3579,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2296,13 +3615,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2338,13 +3651,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2380,13 +3687,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2435,13 +3736,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2477,13 +3772,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2519,13 +3808,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2561,13 +3844,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2603,13 +3880,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-04.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2657,13 +3928,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-fall-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2699,13 +3964,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-fall-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2754,13 +4013,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-00.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2796,13 +4049,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-01.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2838,13 +4085,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-02.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2880,13 +4121,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-03.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2922,13 +4157,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-04.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2964,13 +4193,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-05.png",
-                  "points": [
-                    {
-                      "name": "SlashDetect",
-                      "x": 40,
-                      "y": 20
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3747,10 +4970,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/autotyping"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
