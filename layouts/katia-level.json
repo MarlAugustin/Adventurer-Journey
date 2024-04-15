@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5117784035210174,
+    "zoomFactor": 0.4789341884535246,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,13 +28,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1064,
+      "height": 1106,
       "layer": "",
       "name": "ForestBackground",
       "persistentUuid": "04f817a7-edbe-4232-8b92-e29a37123525",
-      "width": 4697,
+      "width": 5841,
       "x": -814,
-      "y": -157,
+      "y": -199,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -75,13 +75,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 88,
+      "height": 82,
       "layer": "",
       "name": "Monster",
       "persistentUuid": "47fb2753-e7d2-47b1-ae43-b9ecdc871723",
-      "width": 77,
+      "width": 71,
       "x": 649,
-      "y": 501,
+      "y": 507,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -132,8 +132,8 @@
       "layer": "",
       "name": "GreenPlatform",
       "persistentUuid": "7e164643-9c73-4ab3-8e79-3571e231a65b",
-      "width": 1420,
-      "x": -197,
+      "width": 1453,
+      "x": -230,
       "y": 585,
       "zOrder": 11,
       "numberProperties": [],
@@ -149,8 +149,8 @@
       "name": "GoldCoin",
       "persistentUuid": "990d925d-2cb9-4411-a780-c5cac67bf705",
       "width": 45,
-      "x": 442,
-      "y": 508,
+      "x": 429,
+      "y": 527,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -228,7 +228,7 @@
       "layer": "",
       "name": "GreenPlatform",
       "persistentUuid": "b1e526df-b76b-4a00-b8b7-308420884fde",
-      "width": 914,
+      "width": 1064,
       "x": 2044,
       "y": 527,
       "zOrder": 18,
@@ -244,7 +244,7 @@
       "layer": "",
       "name": "InvisibleGround",
       "persistentUuid": "4e16efa6-2ff7-4360-b261-cddeacc957b0",
-      "width": 4688,
+      "width": 5815,
       "x": -807,
       "y": 724,
       "zOrder": 19,
@@ -309,6 +309,313 @@
       "x": 2701,
       "y": 412,
       "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 461,
+      "layer": "",
+      "name": "LongOrangeTree",
+      "persistentUuid": "570af88c-e57e-4e5a-b45b-2df061b652fa",
+      "width": 157,
+      "x": 2867,
+      "y": 65,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "layer": "",
+      "name": "GreenPlatform",
+      "persistentUuid": "6c0274a1-057a-46f1-9ab0-9c814b515022",
+      "width": 142,
+      "x": 3175,
+      "y": 526,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "GreenPlatform",
+      "persistentUuid": "29c4a80f-aeb5-4340-87f7-5c1c34238dc0",
+      "width": 0,
+      "x": 3340,
+      "y": 463,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "layer": "",
+      "name": "GreenPlatform",
+      "persistentUuid": "8760188d-e158-44df-bf98-bc0d40f26137",
+      "width": 540,
+      "x": 3475,
+      "y": 389,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 67,
+      "layer": "",
+      "name": "GoldCoin",
+      "persistentUuid": "8976f5d1-5736-4191-ac30-d5167c883cfd",
+      "width": 45,
+      "x": 3035,
+      "y": 463,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 49,
+      "layer": "",
+      "name": "GoldCoin",
+      "persistentUuid": "2a58c700-8a5d-402c-a111-6bcaedc50249",
+      "width": 57,
+      "x": 1848,
+      "y": 540,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 410,
+      "layer": "",
+      "name": "BigOrangeTree4",
+      "persistentUuid": "e5f1eae0-01c2-4926-a472-7fe0f9730011",
+      "width": 204,
+      "x": 3564,
+      "y": -19,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "layer": "",
+      "name": "GreenPlatform",
+      "persistentUuid": "8f585a28-8260-4a9d-9b57-e7ea55ae421e",
+      "width": 673,
+      "x": 4221,
+      "y": 393,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Door",
+      "persistentUuid": "c2113d67-3592-46a8-999a-617f175a3bbb",
+      "width": 0,
+      "x": 4363,
+      "y": 79,
+      "zOrder": 33,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 259,
+      "layer": "",
+      "name": "NarrowLadder",
+      "persistentUuid": "74b7c0b5-db5c-43e3-bc8c-c885037da04c",
+      "width": 128,
+      "x": 3645,
+      "y": 151,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 65,
+      "layer": "",
+      "name": "GreenPlatform",
+      "persistentUuid": "65c82586-5492-445f-9a10-bfacf80ba74b",
+      "width": 564,
+      "x": 3773,
+      "y": 133,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 53,
+      "layer": "",
+      "name": "GoldCoin",
+      "persistentUuid": "253fb52d-9090-483c-b4ad-290844164af3",
+      "width": 53,
+      "x": 3482,
+      "y": 341,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 45,
+      "layer": "",
+      "name": "GoldCoin",
+      "persistentUuid": "34f2401b-f21e-48c1-9a5b-4ad953181d4b",
+      "width": 57,
+      "x": 3570,
+      "y": 348,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 161,
+      "layer": "",
+      "name": "SmallCastle",
+      "persistentUuid": "e1594b7d-8814-4075-bfd3-caf9c303b4bd",
+      "width": 163,
+      "x": 4037,
+      "y": 292,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "GoldCoin",
+      "persistentUuid": "dfb7f062-76df-4654-9705-acb707a14520",
+      "width": 51,
+      "x": 3833,
+      "y": 85,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 116,
+      "layer": "",
+      "name": "Percy",
+      "persistentUuid": "16cb73dd-1275-4cc8-a8db-feb5023004db",
+      "width": 95,
+      "x": 4107,
+      "y": 15,
+      "zOrder": 40,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 76,
+      "layer": "",
+      "name": "Rock",
+      "persistentUuid": "2c842bd9-17e7-4fb5-8ca6-90ef5602f4fa",
+      "width": 78,
+      "x": 3929,
+      "y": 58,
+      "zOrder": 42,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 99,
+      "layer": "",
+      "name": "OrangeBush4",
+      "persistentUuid": "7d8bbcac-f61e-4c29-a3dd-ada3632f51c2",
+      "width": 103,
+      "x": 3820,
+      "y": 287,
+      "zOrder": 43,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 19,
+      "height": 58,
+      "layer": "",
+      "name": "StoneLargeB",
+      "persistentUuid": "26bf9ccc-3df3-473d-9c23-63dc3f8aeaf4",
+      "width": 62,
+      "x": 4276,
+      "y": 105,
+      "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1636,7 +1943,19 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "TimedBackAndForthMirroredMovement",
+          "type": "TimedBackAndForthMovement::TimedBackAndForthMirroredMovement",
+          "Vertical": false,
+          "Speed": 100,
+          "Distance": 200,
+          "Timeout": 2,
+          "StartPosition": 0,
+          "LastPosition": 0,
+          "Timecheck": 0
+        }
+      ],
       "animations": [
         {
           "name": "Idle",
@@ -5192,6 +5511,419 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "d5fcc00f0c997474fab6496cc6c33b73394a2982d5606616bc55abf4cae51022",
+      "name": "LongOrangeTree",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Long orange tree.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 163,
+                        "y": 0
+                      },
+                      {
+                        "x": 163,
+                        "y": 498
+                      },
+                      {
+                        "x": 0,
+                        "y": 498
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "f09f70d812e1250e6e9a87a2e4fb9ee41f1c1feae520aebd561d0d2deee80c00",
+      "name": "BigOrangeTree4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big orange tree 4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 218,
+                        "y": 0
+                      },
+                      {
+                        "x": 218,
+                        "y": 428
+                      },
+                      {
+                        "x": 0,
+                        "y": 428
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "9ee9383b8614b13d83d1d9c9212f0d57296d517d07a98a43fc1c8fb214e7874e",
+      "height": 128,
+      "name": "NarrowLadder",
+      "texture": "tiled_Narrow ladder.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "Ladder",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "325707601e2c42e1cb11afec7e27ae23bc36bf19e75b2067e323e0781af53f77",
+      "name": "Rock",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Rock.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 35
+                      },
+                      {
+                        "x": 66,
+                        "y": 35
+                      },
+                      {
+                        "x": 66,
+                        "y": 70
+                      },
+                      {
+                        "x": 5,
+                        "y": 70
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "e2d1baf38c124d61e92f741f06aeeeea7b7fd0410286b3953ba19c864969eac3",
+      "name": "OrangeBush4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Orange Bush 4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 99,
+                        "y": 0
+                      },
+                      {
+                        "x": 99,
+                        "y": 70
+                      },
+                      {
+                        "x": 0,
+                        "y": 70
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "7fb220838609d1d3a83b046756b57e7e5a84cc71437e4e6b556456cb242e4ccd",
+      "name": "StoneLargeB",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 46,
+        "height": 46,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Stone Large B.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": -90,
+        "width": 46,
+        "animations": []
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "fcc1ada16e6add83eaf9939e9b4fd692bc4473d3d2ea040acc07ce0a90af533e",
+      "name": "Fireball",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Projectile",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.125,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fireball_Projectile_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 9
+                      },
+                      {
+                        "x": 0,
+                        "y": 9
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fireball_Projectile_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 9
+                      },
+                      {
+                        "x": 0,
+                        "y": 9
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fireball_Projectile_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 9
+                      },
+                      {
+                        "x": 0,
+                        "y": 9
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -5250,6 +5982,27 @@
       },
       {
         "objectName": "RockWithGrass3"
+      },
+      {
+        "objectName": "LongOrangeTree"
+      },
+      {
+        "objectName": "BigOrangeTree4"
+      },
+      {
+        "objectName": "NarrowLadder"
+      },
+      {
+        "objectName": "Rock"
+      },
+      {
+        "objectName": "OrangeBush4"
+      },
+      {
+        "objectName": "StoneLargeB"
+      },
+      {
+        "objectName": "Fireball"
       }
     ]
   },
@@ -5513,6 +6266,101 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "MA_Adventurer",
+            "Animation",
+            "=",
+            "\"attack2\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "SquidSpaceEnemy",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "MA_Adventurer",
+            "Angie",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Katia Level\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SeDirige"
+          },
+          "parameters": [
+            "Percy",
+            "Rock",
+            "3",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceVers"
+          },
+          "parameters": [
+            "Percy",
+            "StoneLargeB",
+            "10",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -5614,6 +6462,10 @@
     {
       "name": "Health",
       "type": "Health::Health"
+    },
+    {
+      "name": "Object3D",
+      "type": "Scene3D::Base3DBehavior"
     },
     {
       "name": "Opacity",
