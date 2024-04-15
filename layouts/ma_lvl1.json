@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3216911764705931,
+    "zoomFactor": 0.39251611754882837,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1946,6 +1946,14 @@
       "actions": [
         {
           "type": {
+            "value": "UnloadAllAudio"
+          },
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "ZoomCamera"
           },
           "parameters": [
@@ -1964,6 +1972,18 @@
             "NewSprite",
             "",
             "\"Background Layer\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "3-16. Forest of the Nopon.mp3",
+            "",
+            "8",
             ""
           ]
         }
@@ -2208,7 +2228,7 @@
                     "",
                     "a01a5e673d5b3c7319b145c85379f1212b603002d6eb7754d37d53fd4b675613_Hit 4.aac",
                     "",
-                    "",
+                    "3",
                     ""
                   ]
                 },
@@ -2267,7 +2287,7 @@
                       "parameters": [
                         "MA_Adventurer",
                         "MA_Adventurer.AngleToPosition(MA_Adventurer.X(),MA_Adventurer.Y())",
-                        "300",
+                        "400",
                         "1"
                       ]
                     }

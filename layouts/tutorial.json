@@ -503,6 +503,18 @@
           "parameters": [
             "boundaries2"
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "1-04 Poem for Everyone's Souls.mp3",
+            "",
+            "10",
+            ""
+          ]
         }
       ]
     },
@@ -521,7 +533,6 @@
           "actions": []
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -634,6 +645,40 @@
                   "parameters": [
                     "MA_Adventurer",
                     "Flippable",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "MA_Adventurer",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "c1e1b0382d2ef9be075adcd356ed89523f3763bd7130f5875ed528ae80e521de_Jump_Start_02.wav",
+                    "",
+                    "20",
                     ""
                   ]
                 }
@@ -768,6 +813,18 @@
                     "=",
                     "\"attack1\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "clean-fast-swooshaiff-14784.mp3",
+                    "",
+                    "5",
+                    ""
+                  ]
                 }
               ]
             },
@@ -794,6 +851,18 @@
                     "Animation",
                     "=",
                     "\"attack2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "clean-fast-swooshaiff-14784.mp3",
+                    "",
+                    "5",
+                    ""
                   ]
                 }
               ]
