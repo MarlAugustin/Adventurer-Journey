@@ -1135,11 +1135,7 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Sound/95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
           "name": "gdevelop-asset-store"
         }
-      },  
-       
-         
-      
-         
+      },
       {
         "alwaysLoaded": false,
         "file": "assets/Small Castle.png",
@@ -2597,6 +2593,110 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/df6ac48df453390312580b655c1ed70c5f331ebc7dfb5b29e41f33f3eb92f0f0_Rock with grass 3.png",
           "name": "Rock with grass 3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Long orange tree2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Long orange tree.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/9e6efba251f5544c2fad00ad39d70747951c2b78155bb90d3abb594f94d6f829_Long orange tree.png",
+          "name": "Long orange tree.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big orange tree5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/8eb60e32f8c2affb8d20bebf5d54db486dcae87ef17d214fcfb05a41499fbee2_Big orange tree 4.png",
+          "name": "Big orange tree 4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Narrow ladder2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cece5f6a92369829780832049eb17a34470d93d8adbd641670463b02449e119c_tiled_Narrow ladder.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/cece5f6a92369829780832049eb17a34470d93d8adbd641670463b02449e119c_tiled_Narrow ladder.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bush5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bush 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/c1dc1f649ecd927a6cd237ada6e7775a03f20e36fb2c1ce6411218db195809e3_Orange Bush 4.png",
+          "name": "Orange Bush 4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fireball_Projectile_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fireball_Projectile_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/a6e2b639a16c477726113bec0c2a136a11c17a8aaa9d93d5758670da579c7fe7_Fireball_Projectile_1.png",
+          "name": "Fireball_Projectile_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fireball_Projectile_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fireball_Projectile_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/6a18f41e1cb77216730f1696bb2f16c97c1af75778d3c4b9b8619be807a2abab_Fireball_Projectile_2.png",
+          "name": "Fireball_Projectile_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fireball_Projectile_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fireball_Projectile_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/0f85e5a801c2ac82a6bea43213a70fe44164188166f87dee8d3f923b8d5fd9a4_Fireball_Projectile_3.png",
+          "name": "Fireball_Projectile_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Rock/4bc8e66b3a58b61792bd12e0f1ad8db48a609b585324764448b986eab5468a3a_Rock.png",
+          "name": "Rock.png"
         }
       }
     ],

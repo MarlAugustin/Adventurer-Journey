@@ -5636,17 +5636,17 @@
       "assetStoreId": "9ee9383b8614b13d83d1d9c9212f0d57296d517d07a98a43fc1c8fb214e7874e",
       "height": 128,
       "name": "NarrowLadder",
-      "texture": "tiled_Narrow ladder.png",
+      "texture": "cece5f6a92369829780832049eb17a34470d93d8adbd641670463b02449e119c_tiled_Narrow ladder.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 128,
       "variables": [],
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "Ladder",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Ladder",
           "yGrabOffset": 0
         }
       ]
