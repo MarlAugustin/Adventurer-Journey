@@ -968,263 +968,6 @@
         }
       },
       {
-        "file": "assets/Hit 4.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "a01a5e673d5b3c7319b145c85379f1212b603002d6eb7754d37d53fd4b675613_Hit 4.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Hit/a01a5e673d5b3c7319b145c85379f1212b603002d6eb7754d37d53fd4b675613_Hit 4.aac",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Health Kit.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Health Kit.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Common Pick-ups/b798da5352866083a4b89fe21efefcd725f8479676838dc68b2dc4e15afbd325_Health Kit.png",
-          "name": "Health Kit.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite21.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite21",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk5",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/walk8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "walk8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Charm-Bold.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "c96edc91057427c050d27f12acd8aac861958ce147509c048a59fcd48c8910b8_Charm-Bold.ttf",
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/c96edc91057427c050d27f12acd8aac861958ce147509c048a59fcd48c8910b8_Charm-Bold.ttf",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Green Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Green Button_Hovered.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/bff6adc488c7379b21ceba34e9104e861791b2fbb54b4aae167fe90115b92fa3_Green Button_Hovered.png",
-          "name": "Green Button_Hovered.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Green Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Green Button_Idle.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f46d20e99495562ee66ee2f26defdb0788588184bd30b1f7b951ae728ce63d2a_Green Button_Idle.png",
-          "name": "Green Button_Idle.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Green Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Green Button_Pressed.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ecb33703984d3107196efce7335025d7ec104351fe8cdeb581c73fe0b8038c34_Green Button_Pressed.png",
-          "name": "Green Button_Pressed.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Mountain 7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Mountain 7.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Background6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Background6.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Background6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Background6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Title Screen.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Title Screen.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true
-      },
-      {
-        "file": "assets/Jump_Start_02.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "c1e1b0382d2ef9be075adcd356ed89523f3763bd7130f5875ed528ae80e521de_Jump_Start_02.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Footsteps/DirtyGround/Jump/c1e1b0382d2ef9be075adcd356ed89523f3763bd7130f5875ed528ae80e521de_Jump_Start_02.wav",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "clean-fast-swooshaiff-14784.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "clean-fast-swooshaiff-14784.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true
-      },
-      {
-        "file": "1-04 Poem for Everyone's Souls.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "1-04 Poem for Everyone's Souls.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true
-      },
-      {
-        "file": "3-16. Forest of the Nopon.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "3-16. Forest of the Nopon.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true
-      },
-      {
-        "file": "assets/Death.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Sound/95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
-          "name": "gdevelop-asset-store"
-        }
-      },  
-       
-         
-      
-         
-      {
         "alwaysLoaded": false,
         "file": "assets/Small Castle.png",
         "kind": "image",
@@ -2681,6 +2424,537 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/df6ac48df453390312580b655c1ed70c5f331ebc7dfb5b29e41f33f3eb92f0f0_Rock with grass 3.png",
           "name": "Rock with grass 3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Long orange tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Long orange tree.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/9e6efba251f5544c2fad00ad39d70747951c2b78155bb90d3abb594f94d6f829_Long orange tree.png",
+          "name": "Long orange tree.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big orange tree 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big orange tree 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/8eb60e32f8c2affb8d20bebf5d54db486dcae87ef17d214fcfb05a41499fbee2_Big orange tree 4.png",
+          "name": "Big orange tree 4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Narrow ladder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Narrow ladder.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/cece5f6a92369829780832049eb17a34470d93d8adbd641670463b02449e119c_tiled_Narrow ladder.png",
+          "name": "tiled_Narrow ladder.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Rock/4bc8e66b3a58b61792bd12e0f1ad8db48a609b585324764448b986eab5468a3a_Rock.png",
+          "name": "Rock.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bush 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bush 4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/c1dc1f649ecd927a6cd237ada6e7775a03f20e36fb2c1ce6411218db195809e3_Orange Bush 4.png",
+          "name": "Orange Bush 4.png"
+        }
+      },
+      {
+        "file": "assets/Stone Large B.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Stone Large B.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Nature/Rock/2ed689a7cf47d7fc288767e09a1a23692b9a79bdbb9467086b562e314f9c6239_Stone Large B.glb",
+          "name": "Stone Large B.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aced53744ad4fdabbb514562105bd2e9263611c51417bc923d4018ab5e990a6b_BarryCherry_Climbing_1.png",
+          "name": "BarryCherry_Climbing_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/edb9b5d4a8fe00a6ff5522aec5ed48fc6a67dc4624de6ddb026dc6ce473c3f7e_BarryCherry_Climbing_2.png",
+          "name": "BarryCherry_Climbing_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/7b3d4aa8aa31bcb776e7e1fc5ce3e6ff23a3739174ac7f5d15a5f5411bc2aaa4_BarryCherry_Climbing_3.png",
+          "name": "BarryCherry_Climbing_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/39946b7372a7231cdae3bb6386000083ed9857b6a59066ae3abc3c1fff57a993_BarryCherry_Climbing_4.png",
+          "name": "BarryCherry_Climbing_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aced53744ad4fdabbb514562105bd2e9263611c51417bc923d4018ab5e990a6b_BarryCherry_Climbing_5.png",
+          "name": "BarryCherry_Climbing_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/283881d9c3fc01b98772b4a9c54ecd40ef863e3dca65f919bbf98f4ec10be57a_BarryCherry_Climbing_6.png",
+          "name": "BarryCherry_Climbing_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/79cb0396bf71bbabae4019b7337c037954fdd37e924ea10fd5a70ba873195fbf_BarryCherry_Climbing_7.png",
+          "name": "BarryCherry_Climbing_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Climbing_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Climbing_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e2cd12ea735340e60130e5339eb4b342f5d1aafcc26f6d0ac80a9f4c52be65f8_BarryCherry_Climbing_8.png",
+          "name": "BarryCherry_Climbing_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/3b26958e65013ce359d4a33a12ef891807a0fd4dc21522835293a14aa8438cb4_BarryCherry_Falling.png",
+          "name": "BarryCherry_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/263b5e1e42d2b454a1ad353825b721652cf7d732865c97c8650c4df5e57d289b_BarryCherry_Hurt.png",
+          "name": "BarryCherry_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_IdleBlink.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_IdleBlink.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/38a3f8f02b096da2d9d860bee902aa7fe6d250b851ca209602f165673be85a86_BarryCherry_IdleBlink.png",
+          "name": "BarryCherry_IdleBlink.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c0b00bf15765ddd059f50a696da076862cc952756fc89b651732a89949948ee0_BarryCherry_Idle_1.png",
+          "name": "BarryCherry_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5b894941b2c51c64f435f3c082933012ca5d110c9bb39c0a67493da22ff5c7ab_BarryCherry_Idle_2.png",
+          "name": "BarryCherry_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/8d197dd17257af72fed430ab785136cbde53b62116e30adf37f916dcd52fb95b_BarryCherry_Idle_3.png",
+          "name": "BarryCherry_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/418d35d2b3b42e93584173f5a581ebe641e47adaa864aaa9f2db3d24638c5dc4_BarryCherry_Idle_4.png",
+          "name": "BarryCherry_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/27d04babcbef768c15949fb3693eaa25b4b093dbd2979a4dd63bd2950c5b08a7_BarryCherry_Jump.png",
+          "name": "BarryCherry_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Landing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Landing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/25a1f3ab37267fef26d2ef6dd1359251cf575aef4b4226c5098854afef2ab15f_BarryCherry_Landing_1.png",
+          "name": "BarryCherry_Landing_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Landing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Landing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9630112be975efb3080890ffb9b12588d318ab2d7f494fa5560b3ad26d5142ea_BarryCherry_Landing_2.png",
+          "name": "BarryCherry_Landing_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Running_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Running_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/10e4a61c240f4c7d6744909b8d08c41d87d6d409b84b61be304db324aa67f0d4_BarryCherry_Running_1.png",
+          "name": "BarryCherry_Running_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Running_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Running_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e5ee1e6a837aa174f0de23fd60185ca204482eed5fc53e919bd63e0687e629f6_BarryCherry_Running_2.png",
+          "name": "BarryCherry_Running_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Running_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Running_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/948af6e03edae0d568b0e0ef361dec7e53213375d79c932a88a507908908cf5d_BarryCherry_Running_3.png",
+          "name": "BarryCherry_Running_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Running_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Running_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/10e4a61c240f4c7d6744909b8d08c41d87d6d409b84b61be304db324aa67f0d4_BarryCherry_Running_4.png",
+          "name": "BarryCherry_Running_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Running_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Running_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/99cfa8b67295bc407d90b1ea2165cd4ece03f3c589b94dc66402560a1689a38c_BarryCherry_Running_5.png",
+          "name": "BarryCherry_Running_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_Running_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_Running_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/8c77cf4b0784b2ff7724f5ae49856e87b28d09090a16bdd4b76342bd54f81bcd_BarryCherry_Running_6.png",
+          "name": "BarryCherry_Running_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d259a877b80e80a21896561a88478ca558496af6c7e5331931628e887d7c5aa1_BarryCherry_VictoryPose_1.png",
+          "name": "BarryCherry_VictoryPose_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dee3250f3b9876f14a14b81bcaba82d354445b04b12535905c428e455588f24a_BarryCherry_VictoryPose_2.png",
+          "name": "BarryCherry_VictoryPose_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/20b3d0cfda88c2ef21c2af4484df43d7de2e50b4f231d769135415b7b9e28eb7_BarryCherry_VictoryPose_3.png",
+          "name": "BarryCherry_VictoryPose_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/17aeec84d2b78d18aad1b5970000e58585e56f450d0db1b31579ed4007b99c9c_BarryCherry_VictoryPose_4.png",
+          "name": "BarryCherry_VictoryPose_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5f1c8254a6d0639841defe06cb2677990db64c173d6d312ca9160b2b7f808837_BarryCherry_VictoryPose_5.png",
+          "name": "BarryCherry_VictoryPose_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/3c232bd9429780f601bd5b8fdce52dfe20a504cdcd48ac5ebbe418bc8791413f_BarryCherry_VictoryPose_6.png",
+          "name": "BarryCherry_VictoryPose_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ffee22e88c7968e530135ded86f4070536e339cc1f49b0e29ab5e79db5d2d926_BarryCherry_VictoryPose_7.png",
+          "name": "BarryCherry_VictoryPose_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BarryCherry_VictoryPose_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BarryCherry_VictoryPose_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9630112be975efb3080890ffb9b12588d318ab2d7f494fa5560b3ad26d5142ea_BarryCherry_VictoryPose_8.png",
+          "name": "BarryCherry_VictoryPose_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fireball_Projectile_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fireball_Projectile_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/a6e2b639a16c477726113bec0c2a136a11c17a8aaa9d93d5758670da579c7fe7_Fireball_Projectile_1.png",
+          "name": "Fireball_Projectile_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fireball_Projectile_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fireball_Projectile_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/6a18f41e1cb77216730f1696bb2f16c97c1af75778d3c4b9b8619be807a2abab_Fireball_Projectile_2.png",
+          "name": "Fireball_Projectile_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fireball_Projectile_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fireball_Projectile_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/0f85e5a801c2ac82a6bea43213a70fe44164188166f87dee8d3f923b8d5fd9a4_Fireball_Projectile_3.png",
+          "name": "Fireball_Projectile_3.png"
         }
       }
     ],
@@ -4923,7 +5197,12 @@
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "InOnScreen",
+          "type": "IsOnScreen::InOnScreen"
+        }
+      ],
       "content": {
         "PreviousHighValueDuration": 0,
         "ShowLabel": true,
@@ -5049,11 +5328,11 @@
   "eventsFunctionsExtensions": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+      "referenceTo": "/eventsFunctionsExtensions/isonscreen"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/autotyping"
+      "referenceTo": "/eventsFunctionsExtensions/firebullet"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
