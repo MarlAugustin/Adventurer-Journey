@@ -218,7 +218,7 @@
         }
       ],
       "string": "This is the story of  a young man named Freeman who wanted to become the greatest adventurer in the land.\nHe is now old enough to start is adventure. He was trained for many year by his teacher Forger.\nThis will be a start of an amazing journey.",
-      "font": "",
+      "font": "0c0f9729a41f6779286ac7fccccf931cbe12c338d96b95808d920296559bb5d9_MarckScript-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 20,
       "color": {
@@ -241,7 +241,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "This is the story of  a young man named Freeman who wanted to become the greatest adventurer in the land.\nHe is now old enough to start is adventure. He was trained for many year by his teacher Forger.\nThis will be a start of an amazing journey.",
-        "font": "",
+        "font": "0c0f9729a41f6779286ac7fccccf931cbe12c338d96b95808d920296559bb5d9_MarckScript-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 20,
         "color": "255;255;255"
