@@ -516,6 +516,16 @@
             "10",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "MA_Adventurer",
+            "SmoothCamera",
+            ""
+          ]
         }
       ]
     },
@@ -1526,6 +1536,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
     },
     {
       "name": "Text",

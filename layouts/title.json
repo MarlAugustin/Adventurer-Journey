@@ -519,6 +519,10 @@
       "type": "ScalableCapability::ScalableBehavior"
     },
     {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
+    },
+    {
       "name": "Text",
       "type": "TextContainerCapability::TextContainerBehavior"
     },
