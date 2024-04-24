@@ -2956,6 +2956,29 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/Projectile/0f85e5a801c2ac82a6bea43213a70fe44164188166f87dee8d3f923b8d5fd9a4_Fireball_Projectile_3.png",
           "name": "Fireball_Projectile_3.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Adventures of Flying Jack.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "b8f80925b6945ebc0744f2257a3662719c72e3735715d4bd7cd9b268706cdf73_Adventures of Flying Jack.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Epic Dramatic/b8f80925b6945ebc0744f2257a3662719c72e3735715d4bd7cd9b268706cdf73_Adventures of Flying Jack.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -3044,7 +3067,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3080,7 +3109,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3116,7 +3151,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3152,7 +3193,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-idle-2-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3201,7 +3248,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3237,7 +3290,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3273,7 +3332,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3309,7 +3374,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-04.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3345,7 +3416,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-run-05.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3394,7 +3471,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3430,7 +3513,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3466,7 +3555,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3502,7 +3597,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-jump-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3551,7 +3652,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-hurt-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3587,7 +3694,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-hurt-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3623,7 +3736,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-hurt-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3672,7 +3791,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3708,7 +3833,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3744,7 +3875,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3780,7 +3917,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3816,7 +3959,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-04.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3852,7 +4001,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-05.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3888,7 +4043,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-die-06.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3937,7 +4098,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3973,7 +4140,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4009,7 +4182,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4045,7 +4224,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-crouch-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4094,7 +4279,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4130,7 +4321,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4166,7 +4363,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4202,7 +4405,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4238,7 +4447,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack1-04.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4286,7 +4501,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-fall-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4322,7 +4543,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-fall-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4371,7 +4598,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-00.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4407,7 +4640,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-01.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4443,7 +4682,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-02.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4479,7 +4724,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-03.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4515,7 +4766,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-04.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4551,7 +4808,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurer-attack2-05.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
