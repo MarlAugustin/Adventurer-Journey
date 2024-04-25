@@ -3776,7 +3776,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite2",
+          "name": "Blank",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3785,8 +3785,8 @@
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
-                  "image": "NewSprite19",
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Ground Brown_Idle.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3803,19 +3803,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 48
+                        "y": 0
                       },
                       {
                         "x": 64,
-                        "y": 48
+                        "y": 0
                       },
                       {
                         "x": 64,
-                        "y": 49
+                        "y": 64
                       },
                       {
                         "x": 0,
-                        "y": 49
+                        "y": 64
                       }
                     ]
                   ]

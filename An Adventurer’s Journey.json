@@ -3776,6 +3776,15 @@
         "name": "assets\\tiled_Narrow ladder.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ground Brown_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Ground Brown_Idle.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
