@@ -3236,7 +3236,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/24cd38fe19b87cb559d7a5d5db14822d48a6bec4a16d00d69969b29c57453045-tile000.png",
+        "file": "assets/tile000.png",
         "kind": "image",
         "metadata": "",
         "name": "tile000.png",
@@ -3249,7 +3249,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/9e69e96cf137435fbf4018937e819547e07a8de41894ca30d83522aee112aa3e-tile001.png",
+        "file": "assets/tile001.png",
         "kind": "image",
         "metadata": "",
         "name": "tile001.png",
@@ -3262,7 +3262,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/25eacd32cf95122ab8df910fef8a1d9ca35e33caed5483a31fdbc345653c88e8-tile002.png",
+        "file": "assets/tile002.png",
         "kind": "image",
         "metadata": "",
         "name": "tile002.png",
@@ -3275,7 +3275,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/a55c2be6f6ef885ea8cf44710e90826f6113aaf5103b77e59fbb37a10fb6aa51-tile003.png",
+        "file": "assets/tile003.png",
         "kind": "image",
         "metadata": "",
         "name": "tile003.png",
@@ -3288,7 +3288,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/ce87e652e14ff56bcda35fa7e3906bdac3f8a19ee3fb578ec9185d2e2d765e5c-tile004.png",
+        "file": "assets/tile004.png",
         "kind": "image",
         "metadata": "",
         "name": "tile004.png",
@@ -3301,7 +3301,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/d44442de2670e53246ac8421d3264621c663dce7932bd9df5f8365a7640af0cb-tile005.png",
+        "file": "assets/tile005.png",
         "kind": "image",
         "metadata": "",
         "name": "tile005.png",
@@ -3314,7 +3314,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/fcf2ad8f63e48f0451490599cd1cf4f39834d92a31bce929e3ce49a466577e29-tile006.png",
+        "file": "assets/tile006.png",
         "kind": "image",
         "metadata": "",
         "name": "tile006.png",
@@ -3327,7 +3327,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/54c9a9251e3da952c669b323eab37a9b85cc8a8f74a681e91aeb0566e45a1304-tile007.png",
+        "file": "assets/tile007.png",
         "kind": "image",
         "metadata": "",
         "name": "tile007.png",
@@ -3340,7 +3340,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/b20317b7956b3943f2ae87753a5bd9f349c4020f940db022203463c9f8682b9c-fillintheblanks.png",
+        "file": "assets/fillintheblanks.png",
         "kind": "image",
         "metadata": "",
         "name": "fillintheblanks.png",
@@ -3351,6 +3351,8 @@
           "name": "cloud-project-resource"
         }
       },
+     
+    
       {
         "alwaysLoaded": false,
         "file": "assets/Door_Closed4.png",
@@ -3496,7 +3498,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/5ae6ec4aed0b11ed1111bc311ce305844fa68f695d9547ad3accad79319b86f3-NewSprite5.png",
+        "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite5",
@@ -3505,7 +3507,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/5ae6ec4aed0b11ed1111bc311ce305844fa68f695d9547ad3accad79319b86f3-Miniboss Trigger.png",
+        "file": "assets/Miniboss Trigger.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Miniboss Trigger",
@@ -3514,7 +3516,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/7ed3a827df0b9265ed09dabba834748c3935c878d4a001c74d5ddb207f0c9f3f-CaveLevelPart1MinibossKilled.png",
+        "file": "assets/CaveLevelPart1MinibossKilled.png",
         "kind": "image",
         "metadata": "",
         "name": "CaveLevelPart1MinibossKilled.png",
@@ -3527,7 +3529,7 @@
       },
       {
         "disablePreload": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/905d0ce8c11133c16cb43858ba7212de04eb7a74a8ebb90ecbdc82595ad357e4-CaveExample.tmj",
+        "file": "assets/CaveExample.tmj",
         "kind": "tilemap",
         "metadata": "",
         "name": "CaveExample.tmj",
@@ -3539,7 +3541,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/85488200303ff5399b1693fc7ff604adcd3544f368e62a2e5190a748e1ecf1d4-spritesheet.png",
+        "file": "assets/spritesheet.png",
         "kind": "image",
         "metadata": "",
         "name": "spritesheet.png",
@@ -3552,7 +3554,7 @@
       },
       {
         "disablePreload": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/e141baa6127305aef21b20941e1c57e32940d15f101ce633514904b6250abbd8-spritesheet.json",
+        "file": "assets/spritesheet.json",
         "kind": "tileset",
         "metadata": "",
         "name": "spritesheet.json",
@@ -3564,7 +3566,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/88a44db8d5098fb116200a2533da7802fcad73ac8233cb5bab081f9afb4ebbe4-CaveExample.png",
+        "file": "assets/CaveExample.png",
         "kind": "image",
         "metadata": "",
         "name": "CaveExample.png",
@@ -3577,7 +3579,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/47c9d2f0645a3f031b54360ff0037c5041753715930d07adf5033661e1899c13-caveSpritesheet.png",
+        "file": "assets/caveSpritesheet.png",
         "kind": "image",
         "metadata": "",
         "name": "caveSpritesheet.png",
@@ -3590,7 +3592,7 @@
       },
       {
         "disablePreload": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/cd8afbb4a794a73b1bee0ba6d807a8970b622543ae895535310749e484b8d124-spritesheet.tsj",
+        "file": "assets/spritesheet.tsj",
         "kind": "tileset",
         "metadata": "",
         "name": "spritesheet.tsj",
@@ -3602,7 +3604,7 @@
       },
       {
         "disablePreload": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/60e103fd8359a9e582a1882587e3eb1b76edcf18f81fd359ffb298d4005d1d7c-CaveExample.ldtk",
+        "file": "assets/CaveExample.ldtk",
         "kind": "tilemap",
         "metadata": "",
         "name": "CaveExample.ldtk",
@@ -3785,7 +3787,86 @@
         "name": "assets\\Ground Brown_Idle.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/96f17a43e665fada540481e927bb8be76bd90c7b3ef3b1469f05a0f6f4fc3af6-idle_1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/96f17a43e665fada540481e927bb8be76bd90c7b3ef3b1469f05a0f6f4fc3af6-idle_2.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_3.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/577a7cc0a3689dcc5c98f0f6a337c365daad7a973f2b2acacba74bf6ec453436-idle_3.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/180cbca7f13e1eb9b96e677bc5ab16970af83f6c1c84151bcf283d46b67e336b-idle_4.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_5.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/207f504dcd88e68b07b757f2e209f0a525c3b0e4defa556c9a704bed5b50fd55-idle_5.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_6.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/d92737e0f0c8027da2327d210d123c931e06a074e14948a4703f104fd2c59fa2-idle_6.png",
+          "name": "cloud-project-resource"
+        }
       }
+  
     ],
     "resourceFolders": []
   },
