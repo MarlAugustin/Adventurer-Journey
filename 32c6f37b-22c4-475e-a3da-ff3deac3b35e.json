@@ -1,0 +1,1392 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "0cf1b81b-a82e-4169-b143-0cdc4240c0a4",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Group Project",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "disablePreload": false,
+        "file": "assets/CaveExample.tmj",
+        "kind": "tilemap",
+        "metadata": "",
+        "name": "CaveExample.tmj",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/905d0ce8c11133c16cb43858ba7212de04eb7a74a8ebb90ecbdc82595ad357e4-CaveExample.tmj",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spritesheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "spritesheet.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/85488200303ff5399b1693fc7ff604adcd3544f368e62a2e5190a748e1ecf1d4-spritesheet.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/spritesheet.json",
+        "kind": "tileset",
+        "metadata": "",
+        "name": "spritesheet.json",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/e141baa6127305aef21b20941e1c57e32940d15f101ce633514904b6250abbd8-spritesheet.json",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CaveExample.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CaveExample.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/88a44db8d5098fb116200a2533da7802fcad73ac8233cb5bab081f9afb4ebbe4-CaveExample.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/caveSpritesheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "caveSpritesheet.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/47c9d2f0645a3f031b54360ff0037c5041753715930d07adf5033661e1899c13-caveSpritesheet.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/spritesheet.tsj",
+        "kind": "tileset",
+        "metadata": "",
+        "name": "spritesheet.tsj",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/cd8afbb4a794a73b1bee0ba6d807a8970b622543ae895535310749e484b8d124-spritesheet.tsj",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/CaveExample.ldtk",
+        "kind": "tilemap",
+        "metadata": "",
+        "name": "CaveExample.ldtk",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/60e103fd8359a9e582a1882587e3eb1b76edcf18f81fd359ffb298d4005d1d7c-CaveExample.ldtk",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CaveLevelPart1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CaveLevelPart1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/b124902af928fca369c8ca28c39fbcf81d83f372c12777143c6edc921a6b61ed-CaveLevelPart1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CaveLevelPart2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CaveLevelPart2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/1060b2749b753c4aa366ecdee7076f29a6daa204899eb253ad10d0db93f3547d-CaveLevelPart2.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bg3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bg3.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/449018cb608bf7683011c0d97470465a97a42c141ee80994f84e042317b77e79-bg3.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bg2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bg2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/4b2df78ad799a1bdee3496c0707d754b67c8496e2fad7194e4446b71642d69e4-bg2.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bg1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bg1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/041dc290fb9438733f78b8bd2587b88129260f258af1890c7b5f185e3abe1b8f-bg1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-swrd-drw-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-swrd-drw-01.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/6247f17638e6d04a23c897af0726e241cfc0d1a74f3f2a7447b435cb152d0ebd-adventurer-swrd-drw-01.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-idle-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-idle-00.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/a4636ab86178333059f41db6b5df4943aed1ff70913e489316b19536c5009003-adventurer-idle-00.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-idle-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-idle-01.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/15a24fd1bf520f397674ebd5fa04856e67229b60954759ad68633e77c004faad-adventurer-idle-01.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-idle-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-idle-02.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/be9d4fd2df59fd5806bd0bef35216f55684b6c02c648e5f8f0bb72e2eae8c0c6-adventurer-idle-02.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-idle-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-idle-03.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/1aaba35aad757868e25df697b10784c9f74d380b7d3ace3cbc9070ba6d56d2c2-adventurer-idle-03.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-run-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-run-00.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/41143cdc0ded25d9b5938e43a8dbac345229053c4b5122353404a637f953672f-adventurer-run-00.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-run-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-run-01.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/08f01c5bf5c3354b421c46cecb7fa1721237c787c4b526de8148942510d3ef6a-adventurer-run-01.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-run-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-run-02.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/c33e57f73f96282d106bfa26ad40045a1605afe63b773f65b3417007a40a7ec2-adventurer-run-02.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-run-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-run-03.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/6707757911c5187a4f7b449db49edc5adbf54ac68ad093d66368ed6013e15806-adventurer-run-03.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-run-04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-run-04.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/93aaee1ad81076c8737f82eeea24ffdc17fb9325703f4f47ae971d2ca7ddfe87-adventurer-run-04.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-run-05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-run-05.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/559d7d3396ba9348a8d148f413682aae9a31978b50f78deed3f0add51f0d0bf3-adventurer-run-05.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-attack2-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-attack2-00.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/37fd874871a04b0ee6b2805e8fc949cadb7e3ac82c5ddc85f86124284652e93c-adventurer-attack2-00.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-attack2-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-attack2-01.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/f156aec647a80b371e747f674c4c817f5d71fdcddf537fb558cc4fcd8057e0e7-adventurer-attack2-01.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-attack2-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-attack2-02.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/f0f92a9d52d487a1b2b97f2f4658aabf70040459ac5da809f5cf926b65a78fbf-adventurer-attack2-02.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-attack2-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-attack2-03.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/e9c5771ec525e529a4820c17388a9efadad9fbc67fd36dbb1adb80ca6ad9767c-adventurer-attack2-03.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-attack2-04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-attack2-04.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/72ed1d7ed29b7a8ca6a4c358602f20c3b00d74be6cf21e6ddc862ad0ef888f4a-adventurer-attack2-04.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-attack2-05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-attack2-05.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/ab4e69bbd571c6bdd228287073c3bfaceaa34638d73fcf822184c9e81c128dda-adventurer-attack2-05.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-jump-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-jump-00.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/3375a583372d7e1b72ff061459808d3df54a94b94623a19f84a32542c84ad897-adventurer-jump-00.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-jump-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-jump-01.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/f9187b16eb8c756ae900fa3eaba0637e56eddfa831a6a093ac4c7547093b2454-adventurer-jump-01.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-jump-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-jump-02.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/8afb15f0f913d4449f4870cc27daaa2d93bdaf9b96de0d0b4d22829a976d1442-adventurer-jump-02.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-jump-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-jump-03.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/0ba53bbd8d35b600ddde4640cfd2e3208bcd48df2bfc49f9f287a30c74b70632-adventurer-jump-03.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-hurt-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-hurt-00.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/61a45d7517b7c440e54044e3079f608061e7c998af97d37e13fcc3298612009c-adventurer-hurt-00.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-hurt-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-hurt-01.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/a6115b2c1fd55eb18ba7efd67a944f55dbcc6490d22bc79b214992d36ab9d501-adventurer-hurt-01.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurer-hurt-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "adventurer-hurt-02.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/160c603809c8d224b6eade6e4c88b46c265490bebcd0950fb6390585b1111838-adventurer-hurt-02.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile000.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/24cd38fe19b87cb559d7a5d5db14822d48a6bec4a16d00d69969b29c57453045-tile000.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile001.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/9e69e96cf137435fbf4018937e819547e07a8de41894ca30d83522aee112aa3e-tile001.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile002.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/25eacd32cf95122ab8df910fef8a1d9ca35e33caed5483a31fdbc345653c88e8-tile002.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile003.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/a55c2be6f6ef885ea8cf44710e90826f6113aaf5103b77e59fbb37a10fb6aa51-tile003.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile004.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/ce87e652e14ff56bcda35fa7e3906bdac3f8a19ee3fb578ec9185d2e2d765e5c-tile004.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile005.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/d44442de2670e53246ac8421d3264621c663dce7932bd9df5f8365a7640af0cb-tile005.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile006.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/fcf2ad8f63e48f0451490599cd1cf4f39834d92a31bce929e3ce49a466577e29-tile006.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tile007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile007.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/54c9a9251e3da952c669b323eab37a9b85cc8a8f74a681e91aeb0566e45a1304-tile007.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fillintheblanks.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fillintheblanks.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/b20317b7956b3943f2ae87753a5bd9f349c4020f940db022203463c9f8682b9c-fillintheblanks.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closed.png",
+          "name": "Door_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/6b88886449d1d6f007da76f35dde1a45f53cb3ed4976d3a7b623f2cfd3224d00_Door_Closing_1.png",
+          "name": "Door_Closing_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_2.png",
+          "name": "Door_Closing_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_3.png",
+          "name": "Door_Closing_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_4.png",
+          "name": "Door_Closing_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_5.png",
+          "name": "Door_Closing_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/872440f9321bc83d4317c3d70200b8b04da2bca3a574cd9c9d3aca27472b5785_Door_Opening_1.png",
+          "name": "Door_Opening_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_2.png",
+          "name": "Door_Opening_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_3.png",
+          "name": "Door_Opening_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_4.png",
+          "name": "Door_Opening_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_5.png",
+          "name": "Door_Opening_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Miniboss Trigger.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Miniboss Trigger",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CaveLevelPart1MinibossKilled.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CaveLevelPart1MinibossKilled.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/7ed3a827df0b9265ed09dabba834748c3935c878d4a001c74d5ddb207f0c9f3f-CaveLevelPart1MinibossKilled.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Bar Red Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Bar Red Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/212e9679eaae4753beaa5d595d7c80ea66df3235485c6a3963e88b0d936a1798_Flat Bar Red Fill Bar.png",
+          "name": "Flat Bar Red Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Bar White Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Bar White Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/c090d31cafed0c8ef7bb4d5af75a7dbf7149bcc03a7d5d63ae997d59100e362e_Flat Bar White Border.png",
+          "name": "Flat Bar White Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/VertCamera4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "VertCamera4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/VertCamera5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "VertCamera5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CamTrig4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CamTrig4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CamTrig5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CamTrig5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/96f17a43e665fada540481e927bb8be76bd90c7b3ef3b1469f05a0f6f4fc3af6-idle_1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/96f17a43e665fada540481e927bb8be76bd90c7b3ef3b1469f05a0f6f4fc3af6-idle_2.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_3.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/577a7cc0a3689dcc5c98f0f6a337c365daad7a973f2b2acacba74bf6ec453436-idle_3.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/180cbca7f13e1eb9b96e677bc5ab16970af83f6c1c84151bcf283d46b67e336b-idle_4.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_5.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/207f504dcd88e68b07b757f2e209f0a525c3b0e4defa556c9a704bed5b50fd55-idle_5.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle_6.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/d92737e0f0c8027da2327d210d123c931e06a074e14948a4703f104fd2c59fa2-idle_6.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/96f17a43e665fada540481e927bb8be76bd90c7b3ef3b1469f05a0f6f4fc3af6-1_atk_1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/e89e075395daee991d16fec608e8d849144a6ab6d826357689d9d93e2cbf5969-1_atk_2.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/ac1fc34843e4b8323869d0341d978579a901f8907b7a9f9a96619e4bd3a27e99-1_atk_3.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_4.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/dba67fad4f5247c4f44d6b11221a613fd4ad862090f8181624a231931e78a83d-1_atk_4.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/778bcb30c5135fbb4ce96506f6f436a67e6fad0e5b5f8beed7f7de6a3fe9efb4-1_atk_5.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_6.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/2fd9ce5046e609f4add7812db4221c160ef412b98c4bf71714b330df50b5aed6-1_atk_6.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_7.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/4ba07ba33a97f87f9059afd3991927d1295c03000cac1d89371e91eddd87e892-1_atk_7.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_8.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/def344f77a8992cf123b72490604372e162607e982a081da8c11cf06b3ef497a-1_atk_8.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_9.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/872d0fef01873aaacc04d97e9838c34ce2bc7836c65d4b4716084ef6515eb8e3-1_atk_9.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_10.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/9a6894688ad7f144b4a7b9f3579988d1f35226133cfd5dcebeee7abcab2105a0-1_atk_10.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_11.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/08111ecefcd7d7b7fd8a2039b179e41b2849916a419c68a19e22821935fcfaf7-1_atk_11.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_12.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/9e21ef858391b64ca1a874bd2b2e53ff03ec3b469d15db92fff2113997391f00-1_atk_12.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_13.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/1e2b7f1e4dbd4f18033066c86dbcdddcb4dc915185ec388235bca460f711ee96-1_atk_13.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1_atk_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1_atk_14.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/96f17a43e665fada540481e927bb8be76bd90c7b3ef3b1469f05a0f6f4fc3af6-1_atk_14.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/2020-06-18_-_8_Bit_Retro_Funk_-_www.FesliyanStudios.com_David_Renda.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "2020-06-18_-_8_Bit_Retro_Funk_-_www.FesliyanStudios.com_David_Renda.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/664181be779769fda36684f91f091d807a9fff387dc3679619e7c1d2da5aed0b-2020-06-18_-_8_Bit_Retro_Funk_-_www.FesliyanStudios.com_David_Renda.mp3",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/swing-whoosh-weapon-1-189819.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "swing-whoosh-weapon-1-189819.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/83b65c7e0df0795893f15a7c5571140afb9cbdbc89c432eda0392153b4427975-swing-whoosh-weapon-1-189819.mp3",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/flyingeyehit.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "flyingeyehit.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/72f12603debe63e25b1e31be32a7668e58e42b88fb00037d80ba5b4adad1fa30-flyingeyehit.mp3",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Rock golem sound design for RPG game..mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Rock golem sound design for RPG game..mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/2b4bc59cd45ea100e4cddce39569a9f9565a77e5c6b301b7c98e93894fc351bf-Rock golem sound design for RPG game..mp3",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/beast-roar-100584.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "beast-roar-100584.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/e5577a9cd890adcd0af0da691c93eb88ad750e5531f6d5fb78c5818760d39340-beast-roar-100584.mp3",
+          "name": "cloud-project-resource"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Left",
+      "type": "boolean",
+      "value": false
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/cave"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/health"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/timedbackandforthmovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
