@@ -875,22 +875,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 3,
-      "height": 109,
-      "layer": "",
-      "name": "Player",
-      "persistentUuid": "4a1e5bc0-76fa-40d1-b910-92e7f7d79762",
-      "width": 148,
-      "x": -17,
-      "y": 458,
-      "zOrder": 34,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 1,
       "height": 720,
       "layer": "Background3",
@@ -1518,6 +1502,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Player2",
+      "persistentUuid": "d194da6e-a26e-461f-8f4f-5afcb0035ef0",
+      "width": 0,
+      "x": 51,
+      "y": 436,
+      "zOrder": 66,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -1700,1191 +1700,6 @@
                       {
                         "x": 0,
                         "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": false,
-      "assetStoreId": "",
-      "name": "Player",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Health",
-          "type": "Health::Health",
-          "Health": 100,
-          "CurrentHealth": 0,
-          "MaxHealth": 100,
-          "DamageCooldown": 0,
-          "AllowOverHealing": false,
-          "IsHealthJustDamaged": false,
-          "DamageToBeApplied": 0,
-          "HitAtLeastOnce": false,
-          "ChanceToDodge": 0,
-          "IsJustDodged": false,
-          "HealToBeApplied": 0,
-          "HealthRegenRate": 0,
-          "HealthRegenDelay": 0,
-          "IsJustHealed": false,
-          "CurrentShieldPoints": 2.0247e-320,
-          "MaxShieldPoints": 0,
-          "ShieldDuration": 5,
-          "ShieldRegenRate": 0,
-          "BlockExcessDamage": false,
-          "ShieldRegenDelay": 0,
-          "IsShieldJustDamaged": false,
-          "ShieldDamageTaken": 2.0247e-320,
-          "FlatDamageReduction": 0,
-          "PercentDamageReduction": 0
-        },
-        {
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "jumpSpeed": 625,
-          "acceleration": 1500,
-          "canGoDownFromJumpthru": false,
-          "canGrabPlatforms": false,
-          "canGrabWithoutMoving": false,
-          "deceleration": 150000,
-          "gravity": 1000,
-          "ignoreDefaultControls": false,
-          "jumpSustainTime": 0.2,
-          "ladderClimbingSpeed": 150,
-          "maxFallingSpeed": 700,
-          "maxSpeed": 250,
-          "slopeMaxAngle": 60,
-          "useLegacyTrajectory": false,
-          "xGrabTolerance": 10,
-          "yGrabOffset": 0
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera",
-          "LeftwardSpeed": 3,
-          "RightwardSpeed": 3,
-          "UpwardSpeed": 3,
-          "DownwardSpeed": 3,
-          "FollowOnX": true,
-          "FollowOnY": false,
-          "FollowFreeAreaLeft": 0,
-          "FollowFreeAreaRight": 0,
-          "FollowFreeAreaTop": 0,
-          "FollowFreeAreaBottom": 0,
-          "CameraOffsetX": 525,
-          "CameraOffsetY": 0,
-          "CameraDelay": 0,
-          "ForecastTime": 0,
-          "ForecastHistoryDuration": 0,
-          "LogLeftwardSpeed": 2.0247e-320,
-          "LogRightwardSpeed": 2.0247e-320,
-          "LogDownwardSpeed": 2.0247e-320,
-          "LogUpwardSpeed": 2.0247e-320,
-          "DelayedCenterX": 2.0247e-320,
-          "DelayedCenterY": 2.0247e-320,
-          "ForecastHistoryMeanX": 2.0247e-320,
-          "ForecastHistoryMeanY": 2.0247e-320,
-          "ForecastHistoryVarianceX": 2.0247e-320,
-          "ForecastHistoryCovariance": 2.0247e-320,
-          "ForecastHistoryLinearA": 2.0247e-320,
-          "ForecastHistoryLinearB": 2.0247e-320,
-          "ForecastedX": 2.0247e-320,
-          "ForecastedY": 2.0247e-320,
-          "ProjectedNewestX": 2.0247e-320,
-          "ProjectedNewestY": 2.0247e-320,
-          "ProjectedOldestX": 2.0247e-320,
-          "ProjectedOldestY": 2.0247e-320,
-          "ForecastHistoryVarianceY": 2.0247e-320,
-          "Index": 2.0247e-320,
-          "CameraDelayCatchUpSpeed": 0,
-          "CameraExtraDelay": 2.0247e-320,
-          "WaitingSpeedXMax": 2.0247e-320,
-          "WaitingSpeedYMax": 2.0247e-320,
-          "WaitingEnd": 2.0247e-320,
-          "CameraDelayCatchUpDuration": 2.0247e-320,
-          "LeftwardSpeedMax": 9000,
-          "RightwardSpeedMax": 9000,
-          "UpwardSpeedMax": 9000,
-          "DownwardSpeedMax": 9000,
-          "OldX": 9000.000000007454,
-          "OldY": 9000.000000007454,
-          "IsCalledManually": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "Idle",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.2,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-idle-00.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-idle-01.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-idle-02.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-idle-03.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Running",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.1,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-run-00.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-run-01.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-run-02.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-run-03.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-run-04.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-run-05.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Jump",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.1,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-jump-00.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-jump-01.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-jump-02.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-jump-03.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Damaged",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.2,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-hurt-00.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-hurt-01.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-hurt-02.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Attack",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.07,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-attack2-00.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-attack2-01.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-attack2-02.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-attack2-03.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-attack2-04.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "adventurer-attack2-05.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 7
-                      },
-                      {
-                        "x": 37,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 14.5
-                      },
-                      {
-                        "x": 46.5,
-                        "y": 28.5
-                      },
-                      {
-                        "x": 37.5,
-                        "y": 36
-                      },
-                      {
-                        "x": 12.5,
-                        "y": 36
                       }
                     ]
                   ]
@@ -6240,6 +5055,294 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "04f94bfb9285eb885871eb69f6f7d225721de31151fbeeb686fb1807b9ae82e0",
+      "name": "FlyingEnemy2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.3333,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Flying enemy (2)_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 37
+                      },
+                      {
+                        "x": 6,
+                        "y": 37
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Flying enemy (2)_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 37
+                      },
+                      {
+                        "x": 6,
+                        "y": 37
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Flying enemy (2)_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 37
+                      },
+                      {
+                        "x": 6,
+                        "y": 37
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Flying enemy (2)_dead_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 1
+                      },
+                      {
+                        "x": 58,
+                        "y": 37
+                      },
+                      {
+                        "x": 6,
+                        "y": 37
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "9a6995a4525af5692eb5d3f73b029446d496e0a1d5528a48930ba7f707aa99e3",
+      "name": "CaveBackground",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Rocks 1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cave Background_Rocks 1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 24,
+                        "y": 0
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rocks 2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cave Background_Rocks 2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 24,
+                        "y": 0
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 0,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -6277,9 +5380,6 @@
       },
       {
         "objectName": "Collision"
-      },
-      {
-        "objectName": "Player"
       },
       {
         "objectName": "VertCamera5"
@@ -6343,6 +5443,12 @@
       },
       {
         "objectName": "CameraTrigger7"
+      },
+      {
+        "objectName": "FlyingEnemy2"
+      },
+      {
+        "objectName": "CaveBackground"
       }
     ]
   },
@@ -6403,7 +5509,7 @@
           },
           "parameters": [
             "JumpFix",
-            "Player",
+            "Player2",
             "",
             "",
             ""
@@ -6416,7 +5522,7 @@
             "value": "PlatformBehavior::JumpSpeed"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "PlatformerObject",
             "=",
             "700"
@@ -6427,7 +5533,7 @@
             "value": "SmoothCamera::SmoothCamera::SetFollowOnX"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "SmoothCamera",
             "",
             ""
@@ -6438,7 +5544,7 @@
             "value": "SmoothCamera::SmoothCamera::SetFollowOnY"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "SmoothCamera",
             "",
             ""
@@ -6466,7 +5572,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::Name"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Animation",
             "=",
             "\"Attack\""
@@ -6477,7 +5583,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Animation"
           ]
         }
@@ -6488,7 +5594,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Animation",
             "=",
             "\"Idle\""
@@ -6501,7 +5607,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "Player Movement",
+      "name": "Player2 Movement",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -6514,7 +5620,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::Name"
               },
               "parameters": [
-                "Player",
+                "Player2",
                 "Animation",
                 "=",
                 "\"Attack\""
@@ -6531,7 +5637,7 @@
                     "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
                   },
                   "parameters": [
-                    "Player",
+                    "Player2",
                     "PlatformerObject"
                   ]
                 }
@@ -6546,7 +5652,7 @@
                         "value": "PlatformBehavior::IsOnFloor"
                       },
                       "parameters": [
-                        "Player",
+                        "Player2",
                         "PlatformerObject"
                       ]
                     }
@@ -6557,7 +5663,7 @@
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
-                        "Player",
+                        "Player2",
                         "Animation",
                         "=",
                         "\"Running\""
@@ -6573,7 +5679,7 @@
                         "value": "PlatformBehavior::IsJumping"
                       },
                       "parameters": [
-                        "Player",
+                        "Player2",
                         "PlatformerObject"
                       ]
                     }
@@ -6584,7 +5690,7 @@
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
-                        "Player",
+                        "Player2",
                         "Animation",
                         "=",
                         "\"Jump\""
@@ -6602,7 +5708,7 @@
                     "value": "PlatformBehavior::IsOnFloor"
                   },
                   "parameters": [
-                    "Player",
+                    "Player2",
                     "PlatformerObject"
                   ]
                 },
@@ -6612,7 +5718,7 @@
                     "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
                   },
                   "parameters": [
-                    "Player",
+                    "Player2",
                     "PlatformerObject"
                   ]
                 }
@@ -6623,7 +5729,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Player",
+                    "Player2",
                     "Animation",
                     "=",
                     "\"Idle\""
@@ -6650,7 +5756,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Player",
+                    "Player2",
                     "Animation",
                     "=",
                     "\"Attack\""
@@ -6694,7 +5800,7 @@
                 "value": "FlippableCapability::FlippableBehavior::FlipX"
               },
               "parameters": [
-                "Player",
+                "Player2",
                 "Flippable",
                 "yes"
               ]
@@ -6744,7 +5850,7 @@
                 "value": "FlippableCapability::FlippableBehavior::FlipX"
               },
               "parameters": [
-                "Player",
+                "Player2",
                 "Flippable",
                 "no"
               ]
@@ -6771,7 +5877,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "FlyingEye",
             "",
             "",
@@ -6783,7 +5889,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::Name"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Animation",
             "!=",
             "\"Attack\""
@@ -6802,7 +5908,7 @@
             "value": "Health::Health::Hit"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Health",
             "20",
             "",
@@ -6817,7 +5923,7 @@
           "parameters": [
             "RedFlatBar",
             "=",
-            "Player.Health::Health()",
+            "Player2.Health::Health()",
             ""
           ]
         }
@@ -6832,7 +5938,7 @@
           },
           "parameters": [
             "Door",
-            "Player",
+            "Player2",
             "",
             "",
             ""
@@ -6860,7 +5966,7 @@
             "value": "Health::Health::IsDead"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Health",
             ""
           ]
@@ -6887,7 +5993,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::Name"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Animation",
             "=",
             "\"Attack\""
@@ -6898,7 +6004,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "FlyingEye",
             "",
             "",
@@ -6997,7 +6103,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Miniboss_Trigger",
             "",
             "",
@@ -7029,7 +6135,7 @@
             "value": "SmoothCamera::SmoothCamera::SetFollowOnY"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "SmoothCamera",
             "",
             ""
@@ -7040,7 +6146,7 @@
             "value": "SmoothCamera::SmoothCamera::SetFollowOnX"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "SmoothCamera",
             "no",
             ""
@@ -7060,7 +6166,7 @@
             "value": "Health::Health::Heal"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "Health",
             "100",
             ""
@@ -7076,7 +6182,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "MinibossFightFinish",
             "",
             "",
@@ -7091,7 +6197,7 @@
           },
           "parameters": [
             "",
-            "Player",
+            "Player2",
             "",
             "",
             ""
@@ -7102,7 +6208,7 @@
             "value": "SmoothCamera::SmoothCamera::SetFollowOnX"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "SmoothCamera",
             "yes",
             ""
@@ -7118,7 +6224,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger1",
             "",
             "",
@@ -7155,7 +6261,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger2",
             "",
             "",
@@ -7192,7 +6298,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger3",
             "",
             "",
@@ -7229,7 +6335,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger4",
             "",
             "",
@@ -7266,7 +6372,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger5",
             "",
             "",
@@ -7303,7 +6409,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger6",
             "",
             "",
@@ -7340,7 +6446,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Player",
+            "Player2",
             "CameraTrigger7",
             "",
             "",
@@ -7361,7 +6467,7 @@
           },
           "parameters": [
             "",
-            "Player",
+            "Player2",
             "",
             "",
             ""
@@ -7488,7 +6594,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Player",
+                "Player2",
                 "Miniboss",
                 "",
                 "",
@@ -7508,7 +6614,7 @@
                 "value": "Health::Health::Hit"
               },
               "parameters": [
-                "Player",
+                "Player2",
                 "Health",
                 "25",
                 "",
@@ -7521,7 +6627,7 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Player",
+                "Player2",
                 "Miniboss",
                 ""
               ]

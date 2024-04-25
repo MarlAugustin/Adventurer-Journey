@@ -4744,7 +4744,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/b124902af928fca369c8ca28c39fbcf81d83f372c12777143c6edc921a6b61ed-CaveLevelPart1.png",
+        "file": "assets/CaveLevelPart1.png",
         "kind": "image",
         "metadata": "",
         "name": "CaveLevelPart1.png",
@@ -4757,7 +4757,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/1060b2749b753c4aa366ecdee7076f29a6daa204899eb253ad10d0db93f3547d-CaveLevelPart2.png",
+        "file": "assets/CaveLevelPart2.png",
         "kind": "image",
         "metadata": "",
         "name": "CaveLevelPart2.png",
@@ -4805,6 +4805,97 @@
         "origin": {
           "identifier": "https://project-resources.gdevelop.io/32c6f37b-22c4-475e-a3da-ff3deac3b35e/resources/041dc290fb9438733f78b8bd2587b88129260f258af1890c7b5f185e3abe1b8f-bg1.png",
           "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flying enemy (2)_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy (2)_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/751a9464202a183c3f64cbd7c827475f60f09ded183e640bcfe40fdec91f35d5_Flying enemy (2)_1.png",
+          "name": "Flying enemy (2)_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flying enemy (2)_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy (2)_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/f534fc2a4f50d4a098c3916c6ce1d0928157e4f96b0166b75e90ab3d26b236c9_Flying enemy (2)_2.png",
+          "name": "Flying enemy (2)_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flying enemy (2)_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy (2)_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/2e90fbd897068ba98e53ce23a45acc00877973b6a3fdaf8ef4114035a1a3b9ae_Flying enemy (2)_3.png",
+          "name": "Flying enemy (2)_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flying enemy (2)_dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flying enemy (2)_dead_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Enemies/c6fe9e18e6f2331a7f3258cd22a7ecfa633e629f2619dd91d52334368cddd194_Flying enemy (2)_dead_1.png",
+          "name": "Flying enemy (2)_dead_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cave Background_Rocks 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cave Background_Rocks 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Misc/fe7c22242369d13b444009ca1b60cc71825423ccffa489a6456fc27ac8bc6344_Cave Background_Rocks 1.png",
+          "name": "Cave Background_Rocks 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cave Background_Rocks 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cave Background_Rocks 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Misc/b637b16fab508424f70ee1e2b088940abb81db4ca6e6583cdd52b4e8c0ac3c80_Cave Background_Rocks 2.png",
+          "name": "Cave Background_Rocks 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Cave Background_Blank.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Cave Background_Blank.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Misc/a7415ae7b9e48d3ce5015fec4ef9ea4cdbb0bee3832cdca940276fe5648aad93_tiled_Cave Background_Blank.png",
+          "name": "tiled_Cave Background_Blank.png"
         }
       }
     ],
@@ -7422,6 +7513,1927 @@
           }
         }
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Player2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "AdvancedJump",
+          "type": "AdvancedJump::AdvancedJump",
+          "PlatformerBehavior": "PlatformerObject",
+          "CoyoteTimeFrameDuration": 0.25,
+          "CanCoyoteJump": false,
+          "WasInTheAir": false,
+          "AirJumpCountMaximum": 1,
+          "AreFloorJumpCountedAsAirJump": false,
+          "AirJumpCount": 0,
+          "WasJumpKeyReleased": false
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health",
+          "Health": 100,
+          "CurrentHealth": 0,
+          "MaxHealth": 100,
+          "DamageCooldown": 0,
+          "AllowOverHealing": false,
+          "IsHealthJustDamaged": false,
+          "DamageToBeApplied": 0,
+          "HitAtLeastOnce": false,
+          "ChanceToDodge": 0,
+          "IsJustDodged": false,
+          "HealToBeApplied": 0,
+          "HealthRegenRate": 0,
+          "HealthRegenDelay": 0,
+          "IsJustHealed": false,
+          "CurrentShieldPoints": 2.0247e-320,
+          "MaxShieldPoints": 0,
+          "ShieldDuration": 5,
+          "ShieldRegenRate": 0,
+          "BlockExcessDamage": false,
+          "ShieldRegenDelay": 0,
+          "IsShieldJustDamaged": false,
+          "ShieldDamageTaken": 2.0247e-320,
+          "FlatDamageReduction": 0,
+          "PercentDamageReduction": 0
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.9,
+          "DownwardSpeed": 0.9,
+          "FollowOnX": true,
+          "FollowOnY": false,
+          "FollowFreeAreaLeft": 0,
+          "FollowFreeAreaRight": 0,
+          "FollowFreeAreaTop": 0,
+          "FollowFreeAreaBottom": 0,
+          "CameraOffsetX": 0,
+          "CameraOffsetY": 0,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 2.0247e-320,
+          "LogRightwardSpeed": 2.0247e-320,
+          "LogDownwardSpeed": 2.0247e-320,
+          "LogUpwardSpeed": 2.0247e-320,
+          "DelayedCenterX": 2.0247e-320,
+          "DelayedCenterY": 2.0247e-320,
+          "ForecastHistoryMeanX": 2.0247e-320,
+          "ForecastHistoryMeanY": 2.0247e-320,
+          "ForecastHistoryVarianceX": 2.0247e-320,
+          "ForecastHistoryCovariance": 2.0247e-320,
+          "ForecastHistoryLinearA": 2.0247e-320,
+          "ForecastHistoryLinearB": 2.0247e-320,
+          "ForecastedX": 2.0247e-320,
+          "ForecastedY": 2.0247e-320,
+          "ProjectedNewestX": 2.0247e-320,
+          "ProjectedNewestY": 2.0247e-320,
+          "ProjectedOldestX": 2.0247e-320,
+          "ProjectedOldestY": 2.0247e-320,
+          "ForecastHistoryVarianceY": 2.0247e-320,
+          "Index": 2.0247e-320,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 2.0247e-320,
+          "WaitingSpeedXMax": 2.0247e-320,
+          "WaitingSpeedYMax": 2.0247e-320,
+          "WaitingEnd": 2.0247e-320,
+          "CameraDelayCatchUpDuration": 2.0247e-320,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000.000000007454,
+          "OldY": 9000.000000007454,
+          "IsCalledManually": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-idle-2-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-idle-2-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-idle-2-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-idle-2-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "run",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-run-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-run-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-run-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-run-04.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-run-05.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-jump-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-jump-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-jump-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-jump-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hurt",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-hurt-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-hurt-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-hurt-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-04.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-05.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-die-06.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "crouch",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-crouch-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-crouch-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-crouch-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-crouch-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack1-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack1-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack1-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack1-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack1-04.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-fall-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-fall-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack2-00.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack2-01.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack2-02.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack2-03.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack2-04.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurer-attack2-05.png",
+                  "points": [
+                    {
+                      "name": "SlashDetect",
+                      "x": 40,
+                      "y": 20
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 9
+                      },
+                      {
+                        "x": 33,
+                        "y": 36
+                      },
+                      {
+                        "x": 10,
+                        "y": 36
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -7429,6 +9441,9 @@
     "children": [
       {
         "objectName": "MA_Adventurer"
+      },
+      {
+        "objectName": "Player2"
       },
       {
         "objectName": "MA_Teacher"
@@ -7475,6 +9490,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/autotyping"
