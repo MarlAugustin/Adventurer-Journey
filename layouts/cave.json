@@ -1062,7 +1062,7 @@
       "height": 1499,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite2",
+      "name": "NewSprite2Brian",
       "persistentUuid": "ca918453-3ab6-45e9-938a-279f8e6488a4",
       "width": 5250,
       "x": -47,
@@ -1079,7 +1079,7 @@
       "height": 2553,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite2",
+      "name": "NewSprite2Brian",
       "persistentUuid": "4d936801-b759-4288-acaf-de1dfd11c421",
       "width": 1463,
       "x": -1509,
@@ -1096,7 +1096,7 @@
       "height": 326,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite2",
+      "name": "NewSprite2Brian",
       "persistentUuid": "63ee3685-a615-4429-b39d-0e13a248fb7d",
       "width": 2911,
       "x": 5202,
@@ -1113,7 +1113,7 @@
       "height": 2776,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite2",
+      "name": "NewSprite2Brian",
       "persistentUuid": "aaf75b1c-fb09-4e7c-8695-249cb76a74ef",
       "width": 381,
       "x": 7982,
@@ -1130,7 +1130,7 @@
       "height": 480,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite2",
+      "name": "NewSprite2Brian",
       "persistentUuid": "79926cc2-ec9f-404d-9580-44cb8f293fc8",
       "width": 3305,
       "x": 4701,
@@ -1911,7 +1911,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite2",
+                  "image": "NewSprite2Brian",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2306,7 +2306,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite2",
+      "name": "NewSprite2Brian",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -5370,7 +5370,7 @@
         "objectName": "CameraTrigger1"
       },
       {
-        "objectName": "NewSprite2"
+        "objectName": "NewSprite2Brian"
       },
       {
         "objectName": "BossKilled"
