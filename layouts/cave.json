@@ -7745,6 +7745,10 @@
   ],
   "behaviorsSharedData": [
     {
+      "name": "AdvancedJump",
+      "type": "AdvancedJump::AdvancedJump"
+    },
+    {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
     },
@@ -7759,6 +7763,10 @@
     {
       "name": "Health",
       "type": "Health::Health"
+    },
+    {
+      "name": "InOnScreen",
+      "type": "IsOnScreen::InOnScreen"
     },
     {
       "name": "Opacity",

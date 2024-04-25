@@ -8739,6 +8739,10 @@
       "type": "ScalableCapability::ScalableBehavior"
     },
     {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
+    },
+    {
       "name": "TimedBackAndForthMirroredMovement",
       "type": "TimedBackAndForthMovement::TimedBackAndForthMirroredMovement"
     }
